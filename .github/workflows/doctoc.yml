@@ -20,6 +20,7 @@ jobs:
 
     - name: Check if README was modified
       id: check-changes
+      continue-on-error: true  # Allow non-zero exit code
       run: |
         git diff --exit-code README.md
 
