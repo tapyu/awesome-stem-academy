@@ -117,7 +117,6 @@
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/YangangCao/AdaptiveFilter/tree/master"><code>code</code></a> <b>Code solution of three classical adaptive filter books</b> - Adaptive Filter Theory (5th Edition) wrotten by Simon Haykin, Adatpive Filtering: Algorithms and Practical Implentation (4th Edition) wrotten by Paulo S R. Diniz, and Adaptive Filters: Theory and Application (2nd Edition) wrotten by Behrouz Farhang-Boroujeny.<br>
 </p>
 
-****
 <!--
 https://github.com/rossant/awesome-scientific-python
 https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning
