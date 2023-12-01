@@ -1,4 +1,4 @@
-# Awesome STEM Academy tst [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![MIT License](https://img.shields.io/badge/License-CC0-lightgrey.svg?longCache=true) ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen)
+# Awesome STEM Academy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![MIT License](https://img.shields.io/badge/License-CC0-lightgrey.svg?longCache=true) ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen)
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <img src="https://github.com/tapyu/awesome-STEM-academy/blob/main/assets/SmallSTEMAcademy.jpg?raw=true">
