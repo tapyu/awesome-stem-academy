@@ -22,10 +22,10 @@ jobs:
       id: check-changes
       continue-on-error: true  # Allow non-zero exit code
       run: |
-        git diff --exit-code README.md
+        git diff --exit-code README.md # if README.md was modified, it returns 1 (failure). If it wasn't modified, it returns 0 (success)
 
     - name: Commit and Push Changes
-      if: steps.check-changes.outputs.result == '1'
+      if: steps.check-changes.outcome == 'failure'
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com" # you can use actions@github.com as the email address in the git config for GitHub Actions workflows. This email address is commonly used in automated workflows, and GitHub recognizes it as a generic or default email address associated with actions.
