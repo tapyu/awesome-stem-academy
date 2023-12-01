@@ -109,12 +109,16 @@
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://picture.iczhiku.com/resource/eetop/WYiRoZIFhjsRrXmN.pdf"><code>book</code> <a href="https://www.mathworks.com/matlabcentral/fileexchange/3582-pydaptivefiltering"><code>software-tool</code></a> <b>Adaptive Filtering Algorithms and Practical Implementation</b> - By Paulo S. R. Diniz.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://users.ics.forth.gr/~tsakalid/UVEG09/Book/Haykin-AFT(3rd.Ed.)_Introduction.pdf"><code>book</code></a> <a href="https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=013267145X"><code>code</code></a> <b>Adaptive Filter Theory</b> - By Simon Haykin. 3th edition.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://matousc89.github.io/padasip/"><code>software-tool</code></a> <b>padasip</b> - Python Adaptive Signal Processing Package.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://turinglang.org/stable/"><code>software-tool</code></a> <b>Turing.jl</b> - Bayesian inference with probabilistic programming.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ewan-xu/pyaec/tree/main"><code>code</code></a> <b>pyaec</b> - A simple and efficient python implemention of a series of adaptive filters for acoustic echo cancellation.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ninja3697/Kernel-Adaptive-Filtering-in-Python/tree/master"><code>code</code></a> <b>Kernel Adaptive Filtering in Python</b> - Implementation of LMS, RLS, KLMS and KRLS filters in Python.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/guedes-joaofelipe/adaptive-filtering"><code>code</code></a> <b>Adaptive Filtering code of Matlab Adaptive Filtering toolbox</b> - Repository containing a Python implemetation of the Matlab [Adaptive Filtering toolbox.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.mathworks.com/matlabcentral/fileexchange/3582-adaptive-filtering"><code>code</code></a> <b>Matlab codes for Statistical Signal Processing algorithms</b> - Matlab code implementing different methods used in statistical signal processing; mainly Extended Kalman Filters, LMS/RLS, Wiener, robust regression, MMSE estimators, ML estimators, Hi-Frequency estimators (Pisarenko, MUSIC, ESPRIT).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/YangangCao/AdaptiveFilter/tree/master"><code>code</code></a> <b>Code solution of three classical adaptive filter books</b> - Adaptive Filter Theory (5th Edition) wrotten by Simon Haykin, Adatpive Filtering: Algorithms and Practical Implentation (4th Edition) wrotten by Paulo S R. Diniz, and Adaptive Filters: Theory and Application (2nd Edition) wrotten by Behrouz Farhang-Boroujeny.<br>
+</p>
+
+## Probability & Statistics
+<p>
+  &nbsp;&nbsp;:small_orange_diamond: <a href="https://turinglang.org/stable/"><code>software-tool</code></a> <b>Turing.jl</b> - Bayesian inference with probabilistic programming.<br>
 </p>
 
 <!--
