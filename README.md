@@ -22,22 +22,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Awesome STEM Academy  * * * *](#awesome-stem-academy-----)
-      - [An awesome list of academical resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.](#an-awesome-list-of-academical-resources-for-stem-science-technology-engineering-mathematics-organized-by-subjects)
-  - [Table of Contents](#table-of-contents)
-  - [Artificial intelligence](#artificial-intelligence)
-    - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
-  - [Linear Algebra](#linear-algebra)
-  - [Communication Systems](#communication-systems)
-  - [Optimization Theory](#optimization-theory)
-  - [Numerical Methods](#numerical-methods)
-  - [Signal Processing](#signal-processing)
-    - [Signals & Systems](#signals--systems)
-    - [Digital Signal Processing](#digital-signal-processing)
-    - [Adaptive Filtering & Statistical Signal Processing](#adaptive-filtering--statistical-signal-processing)
-  - [Probability & Statistics](#probability--statistics)
+## Table of Contents
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
