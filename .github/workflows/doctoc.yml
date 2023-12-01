@@ -6,7 +6,7 @@ on:
       - main  # Change this to your main branch name if different
 
 jobs:
-  update-readme:
+  update-toc:
     runs-on: ubuntu-latest
 
     steps:
