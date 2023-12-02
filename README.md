@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p align="center">"<i>The most vitally characteristic fact about mathematics is, in my opinion, its quite peculiar relationship to the natural sciences, or, more generally, to any science which interprets experience on a higher than purely descriptive level.</i>"
+<p align="center">"<i>The most vitally characteristic fact about Mathematics is, in my opinion, its quite peculiar relationship to the natural sciences, or, more generally, to any science which interprets experience on a higher than purely descriptive level.</i>"
 <br>
 <sub><sup><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann.</a></sup></sub>
 </p>
