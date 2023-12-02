@@ -35,7 +35,6 @@
   - [Digital Signal Processing](#digital-signal-processing)
   - [Adaptive Filtering & Statistical Signal Processing](#adaptive-filtering--statistical-signal-processing)
 - [Probability & Statistics](#probability--statistics)
-- [Test](#test)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
