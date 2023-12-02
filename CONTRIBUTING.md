@@ -32,8 +32,8 @@ where:
         1. `code`: Codes that implement specific algorithms or are the book's code solution shall use this tag.
         1. `dataset`: Any open dataset shall use this tag.
         1. `community`: Any online community where one can discuss more about this topic shall use this tag.
-    - `Short title`: Mandatory.
-    - ` - A longer explanation`: Optional. When used, you must separate it from the short title by using a dash character, that is, ` - `. No matter whether you use it or not, the item must always end with a period.
+    - `Short title`: Mandatory. It must not have hyperlinks.
+    - ` - A longer explanation`: Optional. It must not have hyperlinks. When used, you must separate it from the short title by using a dash character, that is, ` - `. No matter whether you use it or not, the item must always end with a period.
 - In some cases, you might want to use multiple tags. For instance, if you have a link to a book, to its solution manual, and to its code solution, you can suggest something like:<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://drive.google.com/file/d/1zdIDyV8qDBWNmmlwhBw7EtLu_pyacdOh/view"><code>book</code></a> <a href="https://github.com/8128/SharedResources/blob/master/Introduction%20to%20Linear%20Algebra%205th%202016/Introduction%20to%20Linear%20Algebra%2C%205th%20%20(Solutions)%20%E2%80%93%202016.pdf"><code>solution</code></a> <a href="https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html"><code>material</code></a> <a href="https://www.mathworks.com/matlabcentral/fileexchange/2166-introduction-to-linear-algebra"><code>code</code></a> <a href="https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang"><code>code</code></a> <b>Introduction to Linear Algebra</b> - Gilbert Strang. 5th edition.<br><br>
 In this example, we have a link to the book, one solution manual, one material, and two code solutions which are all related to the book "Introduction to Linear Algebra". We gain conciseness at the cost of lack of details. When using multiple tag, follow these guidelines:
