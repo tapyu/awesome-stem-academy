@@ -97,10 +97,10 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://docs.sciml.ai/DiffEqDocs/latest/"><code>software-tool</code></a> <b>DifferentialEquations.jl</b> - A suite for numerically solving differential equations written in Julia and available for use in Julia, Python, and R.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://iterativesolvers.julialinearalgebra.org/dev/"><code>software-tool</code></a> <b>IterativeSolvers.jl</b> - A Julia package that provides efficient iterative algorithms for solving large linear systems, eigenproblems, and singular value problems.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://docs.sciml.ai/Integrals/stable/"><code>software-tool</code></a> <b>Integrals.jl</b> - An unified interface for the numerical approximation of integrals (quadrature) in Julia.<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/FiniteDifferences.jl"><code>software-tool</code></a> <b>FiniteDifferences.jl</b> - A Julia package for <a href="https://en.wikipedia.org/wiki/Numerical_differentiation">numerical differentiation</a>.<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/FiniteDiff.jl"><code>software-tool</code></a> <b>FiniteDiff.jl</b> - A Julia package for <a href="https://en.wikipedia.org/wiki/Numerical_differentiation">numerical differentiation</a>.<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://juliadiff.org/ForwardDiff.jl/stable/"><code>software-tool</code></a> <b>ForwardDiff.jl</b> - A Julia package for <a href="https://en.wikipedia.org/wiki/Automatic_differentiation">automatic differentiation (AD)</a>.<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/ReverseDiff.jl"><code>software-tool</code></a> <b>ReverseDiff.jl</b> - A Julia package for <a href="https://en.wikipedia.org/wiki/Automatic_differentiation">automatic differentiation (AD)</a>.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/FiniteDifferences.jl"><code>software-tool</code></a> <b>FiniteDifferences.jl</b> - A Julia package for numerical differentiation.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/FiniteDiff.jl"><code>software-tool</code></a> <b>FiniteDiff.jl</b> - A Julia package for numerical differentiation.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://juliadiff.org/ForwardDiff.jl/stable/"><code>software-tool</code></a> <b>ForwardDiff.jl</b> - A Julia package for automatic differentiation (AD).<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/ReverseDiff.jl"><code>software-tool</code></a> <b>ReverseDiff.jl</b> - A Julia package for automatic differentiation (AD).<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaMath/Roots.jl"><code>software-tool</code></a> <b>Roots.jl</b> - Root-finding functions for Julia.<br>
 </p>
 
