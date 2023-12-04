@@ -41,6 +41,9 @@
 <br>
 
 ## Artificial intelligence
+<p>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/microsoft/AI-For-Beginners/tree/main"><code>material</code></a> <b>AI-For-Beginners</b> - 12 Weeks, 24 Lessons, AI for All!<br>
+</p>
 
 ### Machine Learning & Neural Networks
 
