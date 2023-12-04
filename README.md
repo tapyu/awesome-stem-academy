@@ -86,6 +86,7 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/cvxgrp/ncvx"><code>software-tool</code></a> <b>NCVX</b> - Python package for modeling and solving problems with convex objectives and decision variables from a nonconvex set. Built on top of CVXPY. <br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="http://cvxr.com/"><code>sofware-tool</code></a> <a href="http://cvxr.com/cvx/doc/index.html"><code>material</code></a> <b>CVX</b> - A Matlab-based convex modeling framework. <br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://cran.r-project.org/web/packages/CVXR/vignettes/cvxr_intro.html"><code>sofware-tool</code></a> <b>CVXR</b> - R package that provides an object-oriented modeling language for convex optimization, similar to CVX, CVXPY, YALMIP, and Convex.jl. <br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/jump-dev/JuMP.jl"><code>sofware-tool</code></a> <b>JuMP.jl</b> - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). <br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://neos-guide.org/guide/types/"><code>material</code></a> <b>Optimization Problem Types</b>. <br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://dcp.stanford.edu/analyzer"><code>material</code></a> <b>DCP analyzer</b>. <br>
 </p>
