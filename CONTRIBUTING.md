@@ -15,7 +15,7 @@ Which means that the list does not pretend to contain all the resources availabl
 
 Please ensure your pull request adheres to the following guidelines:
 
-- We have the `## Main subject` and the `### Subarea` sections.
+- Two section levels are allowed: `## Main subject` and `### Subarea`.
 - Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/).
 - Don't create sections named `## Science`, `## Techonology`, `## Engineering`, or `## Mathematics`. Rather, stick with the feilds of knowledge (e.g., `## Linear Algebra`, `## Algorithm Theory`, `## Electromagnetics`, ...).
 - If your main subject or subarea is formed by many names, you can use "&" instead of "and" for the sake of brevity, if you prefer. For example, `### Machine Learning & Neural Networks`.
