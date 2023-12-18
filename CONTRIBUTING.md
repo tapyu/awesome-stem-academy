@@ -15,7 +15,10 @@ Which means that the list does not pretend to contain all the resources availabl
 
 Please ensure your pull request adheres to the following guidelines:
 
-- We have the `## Main subject` and the `### Subarea` sections. Don't create section for Science, Techonology, Engineering, or Mathematics. Rather, stich with the feilds of knowledge (E.g., Linear Algebra, Algorithm Theory, Electromagnetics, ...). Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/). If your main subject or subarea is formed by many names, you can use "&" instead of "and" for the sake of brevity, if you prefer. For example, `### Machine Learning & Neural Networks`.
+- We have the `## Main subject` and the `### Subarea` sections.
+- Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/).
+- Don't create sections named `## Science`, `## Techonology`, `## Engineering`, or `## Mathematics`. Rather, stick with the feilds of knowledge (e.g., `## Linear Algebra`, `## Algorithm Theory`, `## Electromagnetics`, ...).
+- If your main subject or subarea is formed by many names, you can use "&" instead of "and" for the sake of brevity, if you prefer. For example, `### Machine Learning & Neural Networks`.
 - Try to accommodate your theoretical subject under one of the existing sections. If it is not possible, create a new section and follow these guidelines:
     - Try as much as you can to create `### Subarea` within an existing `## Main subject` instead of creating a new `## Main subject`.
     - Don't modify the table of contents manually. There is a GitHub workflow that does it for us.
