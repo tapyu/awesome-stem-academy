@@ -122,7 +122,8 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/FiniteDiff.jl"><code>software-tool</code></a> <b>FiniteDiff.jl</b> - A Julia package for numerical differentiation.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://juliadiff.org/ForwardDiff.jl/stable/"><code>software-tool</code></a> <b>ForwardDiff.jl</b> - A Julia package for automatic differentiation (AD).<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaDiff/ReverseDiff.jl"><code>software-tool</code></a> <b>ReverseDiff.jl</b> - A Julia package for automatic differentiation (AD).<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaMath/Roots.jl"><code>software-tool</code></a> <b>Roots.jl</b> - Root-finding functions for Julia.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/JuliaMath/Roots.jl"><code>software-tool</code></a> <b>Roots.jl</b> - Root-finding functions for Julia. <br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/SciML/DataInterpolations.jl"><code>software-tool</code></a> <b>DataInterpolations.jl</b> - A Julia library for data interpolation and smoothing functions.<br>
 </p>
 
 ## Signal Processing
