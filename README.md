@@ -40,7 +40,7 @@
 
 <br>
 
-## Data Science and Artificial intelligence
+## Data Science & Artificial intelligence
 <p>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.coursera.org/specializations/data-science-python"><code>course</code></a> <b>Applied Data Science with Python Specialization</b> - Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.coursera.org/specializations/advanced-data-science-ibm"><code>course</code></a> <b>Advanced Data Science with IBM Specialization</b> - Expert in Data Science, Machine Learning and AI. Become an IBM-approved Expert in Data Science, Machine Learning and Artificial Intelligence. Coursera.<br>
