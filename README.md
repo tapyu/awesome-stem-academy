@@ -24,7 +24,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Data Science and Artificial intelligence](#data-science-and-artificial-intelligence)
+- [Data Science & Artificial intelligence](#data-science--artificial-intelligence)
   - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
 - [Linear Algebra](#linear-algebra)
 - [Communication Systems](#communication-systems)
