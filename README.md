@@ -68,6 +68,11 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/iterative/dvc"><code>software-tool</code></a> <b>DVC - Data Version Control</b> - ML Experiments Management with Git.<br>
 </p>
 
+### Natural Language Processing
+<p>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://fasttext.cc/"><code>software-tool</code></a> <b>fastText</b> - Library for efficient text classification and representation learning.<br>
+</p>
+
 ## Linear Algebra
 
 <p>
