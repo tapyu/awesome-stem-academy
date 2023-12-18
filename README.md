@@ -26,6 +26,7 @@
 
 - [Data Science & Artificial intelligence](#data-science--artificial-intelligence)
   - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
+  - [Big Data](#big-data)
 - [Linear Algebra](#linear-algebra)
 - [Communication Systems](#communication-systems)
 - [Optimization Theory](#optimization-theory)
