@@ -65,7 +65,7 @@
 
 ### Big Data
 <p>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/iterative/dvc"><code>software-tool</code></a> <b>Data Version Control</b> - ML Experiments Management with Git.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/iterative/dvc"><code>software-tool</code></a> <b>DVC - Data Version Control</b> - ML Experiments Management with Git.<br>
 </p>
 
 ## Linear Algebra
