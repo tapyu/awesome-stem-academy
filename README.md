@@ -61,6 +61,11 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=w8yWXqWQYmU&t=966s&ab_channel=SamsonZhang"><code>material</code></a> <b>Building a neural network from scratch.</b><br>
 </p>
 
+### Big Data
+<p>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/iterative/dvc"><code>software-tool</code></a> <b>Data Version Control</b> - ML Experiments Management with Git.<br>
+</p>
+
 ## Linear Algebra
 
 <p>
