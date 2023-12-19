@@ -15,6 +15,7 @@ Which means that the list does not pretend to contain all the resources availabl
 
 Please ensure your pull request adheres to the following guidelines:
 
+- **You must suggest only academical resources**. Technologies geared to academia (e.g., CI/CD to Data Science projects, Open-Hardware projects for signal processing, etc) are allowed, but those technologies that have no adherence with the academia must be avoided.
 - Two section levels are allowed: `## Main subject` and `### Subarea`.
 - Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/).
 - Don't create sections named `## Science`, `## Techonology`, `## Engineering`, or `## Mathematics`. Rather, stick with the feilds of knowledge (e.g., `## Linear Algebra`, `## Algorithm Theory`, `## Electromagnetics`, ...).
