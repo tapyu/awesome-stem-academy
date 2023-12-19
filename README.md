@@ -5,11 +5,13 @@
   </a>
 </p>
 
-<p align="center">"<i>The most vitally characteristic fact about Mathematics is, in my opinion, its quite peculiar relationship to the natural sciences, or, more generally, to any science which interprets experience on a higher than purely descriptive level.</i>"
-<br>
-<sub><sup><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann.</a></sup></sub>
-</p>
-
+<table align="center">
+  <tr>
+    <td width="275">"<i>The most vitally characteristic fact about Mathematics is, in my opinion, its quite peculiar relationship to the natural sciences, or, more generally, to any science which interprets experience on a higher than purely descriptive level.</i>"</td>
+    <td width="250" align="center"><img src="https://cdn.futura-sciences.com/cdn-cgi/image/width=1920,quality=60,format=auto/sources/images/scientist/persov6/Von-Neumann-1000.jpg" height="250" width="250"/><br>
+<sub><sup><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann.</a></sup></sub></td>
+  </tr>
+</table>
 <h4 align="center">An awesome list of academical resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.</h4>
 
 <br>
