@@ -26,7 +26,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Data Science & Artificial intelligence](#data-science--artificial-intelligence)
+- [Artificial intelligence & Data Science](#artificial-intelligence--data-science)
   - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
   - [Big Data](#big-data)
   - [Natural Language Processing](#natural-language-processing)
