@@ -44,12 +44,13 @@
 
 <br>
 
-## Data Science & Artificial intelligence
+## Artificial intelligence & Data Science
 <p>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.coursera.org/specializations/data-science-python"><code>course</code></a> <b>Applied Data Science with Python Specialization</b> - Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.coursera.org/specializations/advanced-data-science-ibm"><code>course</code></a> <b>Advanced Data Science with IBM Specialization</b> - Expert in Data Science, Machine Learning and AI. Become an IBM-approved Expert in Data Science, Machine Learning and Artificial Intelligence. Coursera.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/khuyentran1401/data-science-template"><code>software-tool</code></a> <b>cookiecutter</b> - How to Structure a Data Science Project for Maintainability.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://hydra.cc/"><code>software-tool</code></a> <b>Hydra</b> - Framework for elegantly configuring complex applications. Stop Hard Coding Values - Use Config Files Instead.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/gradio-app/gradio"><code>software-tool</code></a> <b>gradio</b> - Build and share delightful machine learning apps, all in Python.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/microsoft/AI-For-Beginners/tree/main"><code>material</code></a> <b>AI-For-Beginners</b> - 12 Weeks, 24 Lessons, AI for All.<br>
 </p>
 
