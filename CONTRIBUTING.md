@@ -19,13 +19,14 @@ Please ensure your pull request adheres to the following guidelines:
     - Technologies geared to academia (e.g., CI/CD to Data Science projects, Open-Hardware projects for signal processing, etc) are allowed, but those technologies that have no adherence with the academia must be avoided.
     - Suggestions of programming language itself (e.g., Python crash course, Julia cheat sheet, etc) are not considered a academic resources.
 - Two section levels are allowed: `## Main subject` and `### Subarea`.
-- Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/).
-- Don't create sections named `## Science`, `## Techonology`, `## Engineering`, or `## Mathematics`. Rather, stick with the feilds of knowledge (e.g., `## Linear Algebra`, `## Algorithm Theory`, `## Electromagnetics`, ...).
-- If your main subject or subarea is formed by many names, you can use "&" instead of "and" for the sake of brevity, if you prefer. For example, `### Machine Learning & Neural Networks`.
-- Try to accommodate your theoretical subject under one of the existing sections. If it is not possible, create a new section and follow these guidelines:
-    - Try as much as you can to create `### Subarea` within an existing `## Main subject` instead of creating a new `## Main subject`.
-    - Don't modify the table of contents manually. There is a GitHub workflow that does it for us.
-    - The items of your new section must be within a `<p>` tag.
+    - Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/).
+    - Don't create sections named `## Science`, `## Techonology`, `## Engineering`, or `## Mathematics`. Rather, stick with the feilds of knowledge (e.g., `## Linear Algebra`, `## Algorithm Theory`, `## Electromagnetics`, ...).
+    - If your main subject or subarea is formed by many names, you can use "&" instead of "and" for the sake of brevity, if you prefer. For example, `### Machine Learning & Neural Networks`.
+    - Try to accommodate your theoretical subject under one of the existing sections. If it is not possible, create a new section and follow these guidelines:
+        - Try as much as you can to create `### Subarea` within an existing `## Main subject` instead of creating a new `## Main subject`.
+        - Don't modify the table of contents manually. There is a GitHub workflow that does it for us.
+        - The items of your new section must be within a `<p>` tag.
+    - You can add suggestions in both `## Main subject` and `### Subarea`.
 - Make sure your suggestion follows this structure:<br><br>
 ```&nbsp;&nbsp;:small_orange_diamond: <a href="link"><code>tag</code></a> <b>Short title</b> - A longer explanation.<br>```<br><br>
 where:
