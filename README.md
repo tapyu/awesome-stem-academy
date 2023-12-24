@@ -12,7 +12,7 @@
 <sub><sup><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann.</a></sup></sub></td>
   </tr>
 </table>
-<h4 align="center">An awesome list of academical resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.</h4>
+<h4 align="center">An awesome list of academic resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.</h4>
 
 <br>
 
