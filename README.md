@@ -161,6 +161,8 @@
 
 ## Probability & Statistics
 <p>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/arviz-devs/arviz"><code>software-tool</code></a> <b>arviz</b> - Exploratory analysis of Bayesian models with Python.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/arviz-devs/ArviZ.jl"><code>software-tool</code></a> <b>ArviZ.jl</b> - Exploratory analysis of Bayesian models with Julia.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://turinglang.org/stable/"><code>software-tool</code></a> <b>Turing.jl</b> - Bayesian inference with probabilistic programming.<br>
 </p>
 
