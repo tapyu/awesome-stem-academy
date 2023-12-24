@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - **You must only suggest STEM academic resources**:
     - Technologies geared to academia (e.g., CI/CD to Data Science projects, Open-Hardware projects for signal processing, etc) are allowed, but those technologies that have no adherence with the academia must be avoided.
-    - Suggestions of programming language itself (e.g., Python crash course, Julia cheat sheet, etc) are not considered a academic resources.
+    - Suggestions of programming language itself (e.g., Python crash course, Julia cheat sheet, etc) are not considered an academic resources.
 - Two section levels are allowed: `## Main subject` and `### Subarea`.
     - Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/).
     - You can add suggestions in both `## Main subject` and `### Subarea`.
