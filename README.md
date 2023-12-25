@@ -6,6 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen)
 
+<h4 align="center">An awesome list of academic resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.</h4>
+
 <table align="center">
   <tr>
     <td width="275">"<i>The most vitally characteristic fact about Mathematics is, in my opinion, its quite peculiar relationship to the natural sciences, or, more generally, to any science which interprets experience on a higher than purely descriptive level.</i>"</td>
@@ -13,7 +15,6 @@
 <sub><sup><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann.</a></sup></sub></td>
   </tr>
 </table>
-<h4 align="center">An awesome list of academic resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.</h4>
 
 <br>
 
