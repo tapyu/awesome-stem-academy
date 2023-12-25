@@ -3,6 +3,7 @@
     <img src="https://github.com/tapyu/awesome-STEM-academy/blob/main/assets/SmallSTEMAcademy.jpg?raw=true" height="400">
   </a>
 </p>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen)
 
 <table align="center">
