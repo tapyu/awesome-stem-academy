@@ -1,12 +1,9 @@
+# Awesome STEM Academy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen)
 <p align="center">
   <a href="https://github.com/tapyu/awesome-stem-academy">
     <img src="https://github.com/tapyu/awesome-STEM-academy/blob/main/assets/SmallSTEMAcademy.jpg?raw=true" height="400">
   </a>
 </p>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen)
-
-<h4 align="center">An awesome list of academic resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.</h4>
 
 <table align="center">
   <tr>
@@ -15,6 +12,7 @@
 <sub><sup><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann.</a></sup></sub></td>
   </tr>
 </table>
+<h4 align="center">An awesome list of academic resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.</h4>
 
 <br>
 
