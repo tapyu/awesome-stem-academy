@@ -56,6 +56,7 @@
 ### Machine Learning & Neural Networks
 
 <p>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF"><code>course</code></a> <b>Convolutional Neural Networks</b> - A DeepLearningAI course on Youtube.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6"><code>book</code></a> <a href="https://github.com/dynamicslab/databook_matlab"><code>code</code></a> <b>Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control</b> - By Steven L. Brunton and J. Nathan Kutz. 1th edition.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf"><code>book</code></a> <a href="https://github.com/dynamicslab/databook_matlab"><code>code</code></a> <b>Neural Networks and Learning Machines</b> - By Simon Haykin. 3th edition.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/alan-turing-institute/MLJ.jl"><code>software-tool</code></a> <b>MLJ.jl</b> - A Julia machine learning framework.<br>
