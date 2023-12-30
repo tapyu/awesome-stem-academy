@@ -66,6 +66,7 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=w8yWXqWQYmU"><code>video</code></a> <b>Building a neural network from scratch.</b><br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=JB8T_zN7ZC0"><code>video</code></a> <b>How convolutional neural networks work, in depth.</b><br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=uapdILWYTzE"><code>video</code></a> <b>MIT 6.S191 (2022): Convolutional Neural Networks.</b><br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=mWgRprKIoIs"><code>video</code></a> <b>Creating Deep Learning Models Using Keras.</b> - Deep Learning, Simplilearn.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://archive.ics.uci.edu"><code>dataset</code></a> <b>UCI</b> - UC Irvine Machine Learning Repository.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://archive.ics.uci.edu"><code>dataset</code></a> <b>kaggle</b> - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.<br>
 </p>
