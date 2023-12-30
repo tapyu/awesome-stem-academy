@@ -48,8 +48,6 @@
 <p>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.coursera.org/specializations/data-science-python"><code>course</code></a> <b>Applied Data Science with Python Specialization</b> - Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.coursera.org/specializations/advanced-data-science-ibm"><code>course</code></a> <b>Advanced Data Science with IBM Specialization</b> - Expert in Data Science, Machine Learning and AI. Become an IBM-approved Expert in Data Science, Machine Learning and Artificial Intelligence. Coursera.<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/khuyentran1401/data-science-template"><code>software-tool</code></a> <b>cookiecutter</b> - How to Structure a Data Science Project for Maintainability.<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/gradio-app/gradio"><code>software-tool</code></a> <b>gradio</b> - Build and share delightful machine learning apps, all in Python.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/microsoft/AI-For-Beginners/tree/main"><code>material</code></a> <b>AI-For-Beginners</b> - 12 Weeks, 24 Lessons, AI for All.<br>
 </p>
 
@@ -66,7 +64,6 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=w8yWXqWQYmU"><code>video</code></a> <b>Building a neural network from scratch.</b><br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=JB8T_zN7ZC0"><code>video</code></a> <b>How convolutional neural networks work, in depth.</b><br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=uapdILWYTzE"><code>video</code></a> <b>MIT 6.S191 (2022): Convolutional Neural Networks.</b><br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=mWgRprKIoIs"><code>video</code></a> <b>Creating Deep Learning Models Using Keras.</b> - Deep Learning, Simplilearn.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://archive.ics.uci.edu"><code>dataset</code></a> <b>UCI</b> - UC Irvine Machine Learning Repository.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://archive.ics.uci.edu"><code>dataset</code></a> <b>kaggle</b> - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.<br>
 </p>
@@ -79,6 +76,13 @@
 ### Natural Language Processing
 <p>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://fasttext.cc/"><code>software-tool</code></a> <b>fastText</b> - Library for efficient text classification and representation learning.<br>
+</p>
+
+### Software tools
+<p>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/khuyentran1401/data-science-template"><code>software-tool</code></a> <b>cookiecutter</b> - How to Structure a Data Science Project for Maintainability.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/gradio-app/gradio"><code>software-tool</code></a> <b>gradio</b> - Build and share delightful machine learning apps, all in Python.<br>  
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=mWgRprKIoIs"><code>video</code></a> <b>Creating Deep Learning Models Using Keras.</b> - Deep Learning, Simplilearn.<br>
 </p>
 
 ## Linear Algebra
