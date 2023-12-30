@@ -62,9 +62,10 @@
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://pytorch.org/"><code>software-tool</code></a> <b>pytorch</b> - Tensors and Dynamic neural networks in Python with strong GPU acceleration.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/tensorflow/tensorflow"><code>software-tool</code></a> <b>Tensorflow</b> - An Python Open Source Machine Learning Framework for Everyone.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/wiseodd/generative-models"><code>software-tool</code></a> <b>generative-models</b> - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.<br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=w8yWXqWQYmU"><code>material</code></a> <b>Building a neural network from scratch.</b><br>
+  &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=JB8T_zN7ZC0"><code>material</code></a> <b>How convolutional neural networks work, in depth.</b><br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://archive.ics.uci.edu"><code>dataset</code></a> <b>UCI</b> - UC Irvine Machine Learning Repository.<br>
   &nbsp;&nbsp; :small_orange_diamond: <a href="https://archive.ics.uci.edu"><code>dataset</code></a> <b>kaggle</b> - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.<br>
-  &nbsp;&nbsp; :small_orange_diamond: <a href="https://www.youtube.com/watch?v=w8yWXqWQYmU&t=966s&ab_channel=SamsonZhang"><code>material</code></a> <b>Building a neural network from scratch.</b><br>
 </p>
 
 ### Big Data
