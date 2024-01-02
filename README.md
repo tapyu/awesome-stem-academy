@@ -26,22 +26,20 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Awesome STEM Academy   ](#awesome-stem-academy---)
-  - [Contents](#contents)
-  - [Artificial intelligence \& Data Science](#artificial-intelligence--data-science)
-    - [Machine Learning \& Neural Networks](#machine-learning--neural-networks)
-    - [Big Data](#big-data)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Software tools](#software-tools)
-  - [Linear Algebra](#linear-algebra)
-  - [Communication Systems](#communication-systems)
-  - [Optimization Theory](#optimization-theory)
-  - [Numerical Methods](#numerical-methods)
-  - [Signal Processing](#signal-processing)
-    - [Signals \& Systems](#signals--systems)
-    - [Digital Signal Processing](#digital-signal-processing)
-    - [Adaptive Filtering \& Statistical Signal Processing](#adaptive-filtering--statistical-signal-processing)
-  - [Probability \& Statistics](#probability--statistics)
+- [Artificial intelligence & Data Science](#artificial-intelligence--data-science)
+  - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
+  - [Big Data](#big-data)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Software tools](#software-tools)
+- [Linear Algebra](#linear-algebra)
+- [Communication Systems](#communication-systems)
+- [Optimization Theory](#optimization-theory)
+- [Numerical Methods](#numerical-methods)
+- [Signal Processing](#signal-processing)
+  - [Signals & Systems](#signals--systems)
+  - [Digital Signal Processing](#digital-signal-processing)
+  - [Adaptive Filtering & Statistical Signal Processing](#adaptive-filtering--statistical-signal-processing)
+- [Probability & Statistics](#probability--statistics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
