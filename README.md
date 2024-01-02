@@ -1,7 +1,9 @@
-# Awesome STEM Academy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen)
+<p align="center">
+  <img src="https://awesome.re/badge.svg"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true"> <img src="https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen">
+</p>
 <p align="center">
   <a href="https://github.com/tapyu/awesome-stem-academy">
-    <img src="https://github.com/tapyu/awesome-STEM-academy/blob/main/assets/SmallSTEMAcademy.jpg?raw=true" height="400">
+    <img src="./assets/AwesomeSTEMAcademy.jpg" width="520" height="520">
   </a>
 </p>
 
