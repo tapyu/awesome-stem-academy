@@ -88,6 +88,7 @@
 - [`course`](https://github.com/mitmath/1806) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) **MIT 18.06, Linear Algebra** - by Professor Gilbert Strang.
 - [`book`](https://drive.google.com/file/d/1zdIDyV8qDBWNmmlwhBw7EtLu_pyacdOh/view) [`solution`](https://github.com/8128/SharedResources/blob/master/Introduction%20to%20Linear%20Algebra%205th%202016/Introduction%20to%20Linear%20Algebra%2C%205th%20%20(Solutions)%20%E2%80%93%202016.pdf) [`material`](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/2166-introduction-to-linear-algebra) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) **Introduction to Linear Algebra** - Gilbert Strang. 5th edition.
 - [`material`](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) **The Art of Linear Algebra** - Linear Algebra course by Professor Gilbert Strang.
+- [`video`](https://www.youtube.com/watch?v=wCZ1VEmVjVo&t=433s&ab_channel=Mathemaniac) - **What is Jacobian?** Multivariable calculus: The right way of thinking derivatives and integrals.
 
 ## Communication Systems
 
