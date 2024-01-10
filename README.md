@@ -26,11 +26,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Artificial intelligence & Data Science](#artificial-intelligence--data-science)
+- [Algorithm Theory](#algorithm-theory)
+- [Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
   - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
   - [Big Data](#big-data)
   - [Natural Language Processing](#natural-language-processing)
-  - [Software tools](#software-tools)
+  - [Software Tools](#software-tools)
 - [Linear Algebra](#linear-algebra)
 - [Communication Systems](#communication-systems)
 - [Optimization Theory](#optimization-theory)
