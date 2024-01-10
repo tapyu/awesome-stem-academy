@@ -28,7 +28,7 @@ Please ensure your pull request adheres to the following guidelines:
         - Don't modify the table of contents manually. There is a GitHub workflow that does it for us.
         - The items of your new section must be within a `<p>` tag.
 - Make sure your suggestion follows this structure:<br><br>
-```&nbsp;&nbsp;:small_orange_diamond: <a href="link"><code>tag</code></a> <b>Short title</b> - A longer explanation.<br>```<br><br>
+```- [tag](www.link.com) **Short title** - A longer explanation.```<br><br>
 where:
     - `tag`: Mandatory. The following tags are allowed (you must obey this order when using multiple tags in an item):
         1. `course`: Suggestions for open-access courses shall use this tag. Whenever you use this tag, the short title must always be the course name and code (for instance, "EE364A, Convex Optimization I"), while the longer explanation must contain other information such as year, professor, platform name, etc. Playlists with structured sequence of videos are consired a course. You must only add free (in "free beer" sense) courses.
