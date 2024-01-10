@@ -26,8 +26,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Artificial intelligence & Data Science](#artificial-intelligence--data-science)
-  - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
+- [Contents](#contents)
+- [Artificial intelligence \& Data Science](#artificial-intelligence--data-science)
+  - [Machine Learning \& Neural Networks](#machine-learning--neural-networks)
   - [Big Data](#big-data)
   - [Natural Language Processing](#natural-language-processing)
   - [Software tools](#software-tools)
@@ -36,10 +37,10 @@
 - [Optimization Theory](#optimization-theory)
 - [Numerical Methods](#numerical-methods)
 - [Signal Processing](#signal-processing)
-  - [Signals & Systems](#signals--systems)
+  - [Signals \& Systems](#signals--systems)
   - [Digital Signal Processing](#digital-signal-processing)
-  - [Adaptive Filtering & Statistical Signal Processing](#adaptive-filtering--statistical-signal-processing)
-- [Probability & Statistics](#probability--statistics)
+  - [Adaptive Filtering \& Statistical Signal Processing](#adaptive-filtering--statistical-signal-processing)
+- [Probability \& Statistics](#probability--statistics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -142,7 +143,7 @@
 - [`software-tool`](https://matousc89.github.io/padasip/) **padasip** - Python Adaptive Signal Processing Package.
 - [`code`](https://github.com/ewan-xu/pyaec/tree/main) **pyaec** - A simple and efficient python implemention of a series of adaptive filters for acoustic echo cancellation.
 - [`code`](https://github.com/ninja3697/Kernel-Adaptive-Filtering-in-Python/tree/master) **Kernel Adaptive Filtering in Python** - Implementation of LMS, RLS, KLMS and KRLS filters in Python.
-- [`code`](https://github.com/guedes-joaofelipe/adaptive-filtering) **Adaptive Filtering code of Matlab Adaptive Filtering toolbox** - Repository containing a Python implemetation of the Matlab [Adaptive Filtering toolbox.
+- [`code`](https://github.com/guedes-joaofelipe/adaptive-filtering) **Adaptive Filtering code of Matlab Adaptive Filtering toolbox** - Repository containing a Python implemetation of the Matlab Adaptive Filtering toolbox.
 - [`code`](http://www.mathworks.com/matlabcentral/fileexchange/3582-adaptive-filtering) **Matlab codes for Statistical Signal Processing algorithms** - Matlab code implementing different methods used in statistical signal processing; mainly Extended Kalman Filters, LMS/RLS, Wiener, robust regression, MMSE estimators, ML estimators, Hi-Frequency estimators (Pisarenko, MUSIC, ESPRIT).
 - [`code`](https://github.com/YangangCao/AdaptiveFilter) **Code solution of three classical adaptive filter books** - Adaptive Filter Theory (5th Edition) wrotten by Simon Haykin, Adatpive Filtering: Algorithms and Practical Implentation (4th Edition) wrotten by Paulo S R. Diniz, and Adaptive Filters: Theory and Application (2nd Edition) wrotten by Behrouz Farhang-Boroujeny.
 - [`code`](https://github.com/rohitner/adaptive-filters) **Collection of implementations of adaptive filters** - Recursive Least Squares, Partial Least Squares, Moving Window Least Squares, Recursive Locally Weighted Partial Least Squares, Online Passive Aggressive Algorithm, Kalman Filter.
