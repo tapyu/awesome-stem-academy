@@ -45,7 +45,12 @@
 
 <br>
 
-## Artificial intelligence & Data Science
+## Algorithm Theory
+
+- [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm**.
+- [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works**.
+
+## Artificial Intelligence & Data Science
 - [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
 - [`course`](https://www.coursera.org/specializations/advanced-data-science-ibm) **Advanced Data Science with IBM Specialization** - Expert in Data Science, Machine Learning and AI. Become an IBM-approved Expert in Data Science, Machine Learning and Artificial Intelligence. Coursera.
 - [`material`](https://github.com/microsoft/AI-For-Beginners/tree/main) **AI-For-Beginners** - 12 Weeks, 24 Lessons, AI for All.
@@ -72,7 +77,7 @@
 ### Natural Language Processing
 - [`software-tool`](https://fasttext.cc/) **fastText** - Library for efficient text classification and representation learning.
 
-### Software tools
+### Software Tools
 - [`software-tool`](https://github.com/khuyentran1401/data-science-template) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
 - [`software-tool`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
 - [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
