@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/tapyu/awesome-stem-academy">
-    <img src="./assets/AwesomeSTEMAcademy.jpg" width="520" height="520">
+    <img src="./assets/AwesomeSTEMAcademy.jpg" width="520">
   </a>
 </p>
 
