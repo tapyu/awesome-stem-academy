@@ -31,7 +31,6 @@
   - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
   - [Big Data](#big-data)
   - [Natural Language Processing](#natural-language-processing)
-  - [Software Tools](#software-tools)
 - [Linear Algebra](#linear-algebra)
 - [Communication Systems](#communication-systems)
 - [Optimization Theory](#optimization-theory)
