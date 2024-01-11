@@ -53,18 +53,18 @@
 ## Artificial Intelligence & Data Science
 - [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data. Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
 - [`course`](https://www.coursera.org/specializations/advanced-data-science-ibm) **Advanced Data Science with IBM Specialization** - Expert in Data Science, Machine Learning and AI. Become an IBM-approved Expert in Data Science, Machine Learning and Artificial Intelligence. Coursera.
-- [`software`](https://github.com/khuyentran1401/data-science-template) [`material`](https://mathdatasimplified.com/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) [`video`](https://www.youtube.com/watch?v=TzvcPi3nsdw) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
-- [`software`](https://github.com/facebookresearch/hydra) [`material`](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y&ab_channel=DataScienceSimplified) - **Hydra** - Stop Hard Coding in a Data Science Project, Use Config Files Instead.
+- [`software`](https://github.com/khuyentran1401/data-science-template) [`reading`](https://mathdatasimplified.com/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) [`video`](https://www.youtube.com/watch?v=TzvcPi3nsdw) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
+- [`software`](https://github.com/facebookresearch/hydra) [`reading`](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y&ab_channel=DataScienceSimplified) - **Hydra** - Stop Hard Coding in a Data Science Project, Use Config Files Instead.
 - [`software`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
-- [`material`](https://github.com/microsoft/AI-For-Beginners/tree/main) **AI-For-Beginners** - 12 Weeks, 24 Lessons, AI for All.
+- [`reading`](https://github.com/microsoft/AI-For-Beginners/tree/main) **AI-For-Beginners** - 12 Weeks, 24 Lessons, AI for All.
 
 ### Machine Learning & Neural Networks
 
 - [`course`](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) **Convolutional Neural Networks** - A DeepLearningAI course on Youtube.
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/dynamicslab/databook_matlab) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
-- [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`material`](https://arxiv.org/pdf/1810.07758.pdf) [`material`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive**.
-- [`dataset`](http://tseregression.org/) [`material`](https://arxiv.org/pdf/2006.10996.pdf) **UEA & UCR Time Series Extrinsic Regression Repository**.
+- [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`reading`](https://arxiv.org/pdf/1810.07758.pdf) [`reading`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive**.
+- [`dataset`](http://tseregression.org/) [`reading`](https://arxiv.org/pdf/2006.10996.pdf) **UEA & UCR Time Series Extrinsic Regression Repository**.
 - [`dataset`](https://archive.ics.uci.edu) **UCI** - UC Irvine Machine Learning Repository.
 - [`dataset`](https://archive.ics.uci.edu) **kaggle** - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 - [`software`](https://github.com/alan-turing-institute/MLJ.jl) **MLJ.jl** - A Julia machine learning framework.
@@ -88,8 +88,8 @@
 ## Linear Algebra
 
 - [`course`](https://github.com/mitmath/1806) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) **MIT 18.06, Linear Algebra** - by Professor Gilbert Strang.
-- [`book`](https://drive.google.com/file/d/1zdIDyV8qDBWNmmlwhBw7EtLu_pyacdOh/view) [`solution`](https://github.com/8128/SharedResources/blob/master/Introduction%20to%20Linear%20Algebra%205th%202016/Introduction%20to%20Linear%20Algebra%2C%205th%20%20(Solutions)%20%E2%80%93%202016.pdf) [`material`](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/2166-introduction-to-linear-algebra) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) **Introduction to Linear Algebra** - Gilbert Strang. 5th edition.
-- [`material`](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) **The Art of Linear Algebra** - Linear Algebra course by Professor Gilbert Strang.
+- [`book`](https://drive.google.com/file/d/1zdIDyV8qDBWNmmlwhBw7EtLu_pyacdOh/view) [`solution`](https://github.com/8128/SharedResources/blob/master/Introduction%20to%20Linear%20Algebra%205th%202016/Introduction%20to%20Linear%20Algebra%2C%205th%20%20(Solutions)%20%E2%80%93%202016.pdf) [`reading`](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/2166-introduction-to-linear-algebra) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) **Introduction to Linear Algebra** - Gilbert Strang. 5th edition.
+- [`reading`](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) **The Art of Linear Algebra** - Linear Algebra course by Professor Gilbert Strang.
 - [`video`](https://www.youtube.com/watch?v=wCZ1VEmVjVo&t=433s&ab_channel=Mathemaniac) - **What is Jacobian?** Multivariable calculus: The right way of thinking derivatives and integrals.
 
 ## Communication Systems
@@ -97,27 +97,27 @@
 - [`hardware`](https://github.com/greatscottgadgets/hackrf) **HackRF** - A low cost, open source Software Defined Radio platform.
 - [`hardware`](https://github.com/RfidResearchGroup/proxmark3) **proxmark3** - Swiss-army tool of RFID, allowing for interactions with the vast majority of RFID tags on a global scale.
 - [`software`](https://www.gnuradio.org) **GNU Radio** - Free software development toolkit that provides signal processing blocks to implement software-defined radios and signal processing systems.
-- [`material`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated.**
-- [`material`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis.**
-- [`material`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies.**
-- [`material`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design.**
-- [`material`](https://s3.amazonaws.com/embeddedrelated/user/6420/lets_assume_system_synchronized_2_94379.pdf) **Let's Assume the System is Synchronized** - By Fred Harris.
+- [`reading`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated.**
+- [`reading`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis.**
+- [`reading`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies.**
+- [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design.**
+- [`reading`](https://s3.amazonaws.com/embeddedrelated/user/6420/lets_assume_system_synchronized_2_94379.pdf) **Let's Assume the System is Synchronized** - By Fred Harris.
 - [`code`](https://people.scs.carleton.ca/~barbeau/SDRCRBook/index.shtml) **Software Radio for Experimenters with GNU Radio** - Implemented in Octave and Python by Michel Barbeau.
 
 ## Optimization Theory
 
-- [`course`](https://see.stanford.edu/Course/EE364A) [`material`](https://web.stanford.edu/class/ee364a/) [`material`](https://github.com/cvxgrp/cvxbook_additional_exercises) **EE364A, Convex Optimization I** - Stanford Engineering Everywhere - Stephen Boyd. 
+- [`course`](https://see.stanford.edu/Course/EE364A) [`reading`](https://web.stanford.edu/class/ee364a/) [`reading`](https://github.com/cvxgrp/cvxbook_additional_exercises) **EE364A, Convex Optimization I** - Stanford Engineering Everywhere - Stephen Boyd. 
 - [`course`](https://web.stanford.edu/class/ee364b/) **EE364b - Convex Optimization II** - Stanford Engineering Everywhere - Stephen Boyd. 
 - [`course`](https://www.edx.org/learn/engineering/stanford-university-convex-optimization) [`code`](https://github.com/NoamGit/CVX101-HW-with-python) [`code`](https://github.com/PKUFlyingPig/Standford_CVX101) **CVX101 Stanford** - StanfordOnline: Convex Optimization. 
-- [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`solution`](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) [`material`](https://web.mit.edu/~jadbabai/www/EE605/additional_exercises.pdf) **Convex Optimization** - Boyd, S.P. and Vandenberghe, L., 2004. Cambridge university press. 
+- [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`solution`](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) [`reading`](https://web.mit.edu/~jadbabai/www/EE605/additional_exercises.pdf) **Convex Optimization** - Boyd, S.P. and Vandenberghe, L., 2004. Cambridge university press. 
 - [`software`](https://www.cvxpy.org/) [`code`](https://github.com/cvxgrp/cvx_short_course/tree/master) **CVXPY** - Open source Python-embedded modeling language for convex optimization problems. 
 - [`software`](https://github.com/cvxgrp/ncvx) **NCVX** - Python package for modeling and solving problems with convex objectives and decision variables from a nonconvex set. Built on top of CVXPY. 
-- [`sofware-tool`](http://cvxr.com/) [`material`](http://cvxr.com/cvx/doc/index.html) **CVX** - A Matlab-based convex modeling framework. 
+- [`sofware-tool`](http://cvxr.com/) [`reading`](http://cvxr.com/cvx/doc/index.html) **CVX** - A Matlab-based convex modeling framework. 
 - [`sofware-tool`](https://cran.r-project.org/web/packages/CVXR/vignettes/cvxr_intro.html) **CVXR** - R package that provides an object-oriented modeling language for convex optimization, similar to CVX, CVXPY, YALMIP, and Convex.jl. 
 - [`sofware-tool`](https://github.com/jump-dev/Convex.jl) **Convex.jl** - A Julia package for disciplined convex programming. 
 - [`sofware-tool`](https://github.com/jump-dev/JuMP.jl) **JuMP.jl** - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). 
-- [`material`](https://neos-guide.org/guide/types/) **Optimization Problem Types**. 
-- [`material`](https://dcp.stanford.edu/analyzer) **DCP analyzer**. 
+- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types**. 
+- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer**. 
 
 ## Numerical Methods
 
