@@ -79,7 +79,7 @@
 - [`software-tool`](https://fasttext.cc/) **fastText** - Library for efficient text classification and representation learning.
 
 ### Software Tools
-- [`software-tool`](https://github.com/khuyentran1401/data-science-template) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
+- [`software-tool`](https://github.com/khuyentran1401/data-science-template) [`video`](https://www.youtube.com/watch?v=TzvcPi3nsdw) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
 - [`software-tool`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
 - [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
 
