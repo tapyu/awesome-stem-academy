@@ -26,7 +26,6 @@ Please ensure your pull request adheres to the following guidelines:
     - Try to accommodate your theoretical subject under one of the existing sections. If it is not possible, create a new section and follow these guidelines:
         - Try as much as you can to create `### Subarea` within an existing `## Main subject` instead of creating a new `## Main subject`.
         - Don't modify the table of contents manually. There is a GitHub workflow that does it for us.
-        - The items of your new section must be within a `<p>` tag.
 - Make sure your suggestion follows this structure:<br><br>
 ```- [tag](www.link.com) **Short title** - A longer explanation.```<br><br>
 where:
