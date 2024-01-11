@@ -80,7 +80,7 @@
 
 ### Software Tools
 - [`software-tool`](https://github.com/khuyentran1401/data-science-template) [`video`](https://www.youtube.com/watch?v=TzvcPi3nsdw) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
-- [`software-tool`](https://github.com/facebookresearch/hydra) [`material`](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y&ab_channel=DataScienceSimplified) - **Hydra** - Stop Hard Coding in a Data Science Project — Use Config Files Instead.
+- [`software-tool`](https://github.com/facebookresearch/hydra) [`material`](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y&ab_channel=DataScienceSimplified) - **Hydra** - Stop Hard Coding in a Data Science Project, Use Config Files Instead.
 - [`software-tool`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
 - [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
 
