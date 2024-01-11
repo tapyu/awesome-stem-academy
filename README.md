@@ -64,6 +64,7 @@
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/dynamicslab/databook_matlab) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
 - [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`material`](https://arxiv.org/pdf/1810.07758.pdf) [`material`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive**.
+- [`dataset`](http://tseregression.org/) [`material`](https://arxiv.org/pdf/2006.10996.pdf) **UEA & UCR Time Series Extrinsic Regression Repository**.
 - [`dataset`](https://archive.ics.uci.edu) **UCI** - UC Irvine Machine Learning Repository.
 - [`dataset`](https://archive.ics.uci.edu) **kaggle** - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 - [`software`](https://github.com/alan-turing-institute/MLJ.jl) **MLJ.jl** - A Julia machine learning framework.
