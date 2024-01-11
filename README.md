@@ -61,16 +61,16 @@
 - [`course`](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) **Convolutional Neural Networks** - A DeepLearningAI course on Youtube.
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/dynamicslab/databook_matlab) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
+- [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`material`](https://arxiv.org/pdf/1810.07758.pdf) [`material`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive**.
+- [`dataset`](https://archive.ics.uci.edu) **UCI** - UC Irvine Machine Learning Repository.
+- [`dataset`](https://archive.ics.uci.edu) **kaggle** - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 - [`software-tool`](https://github.com/alan-turing-institute/MLJ.jl) **MLJ.jl** - A Julia machine learning framework.
 - [`software-tool`](https://pytorch.org/) **pytorch** - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [`software-tool`](https://github.com/tensorflow/tensorflow) **Tensorflow** - An Python Open Source Machine Learning Framework for Everyone.
 - [`software-tool`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
-- [`material`](https://arxiv.org/pdf/1810.07758.pdf) [`material`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) **UCR Time Series Classification Archive**.
 - [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.**
 - [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.**
 - [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
-- [`dataset`](https://archive.ics.uci.edu) **UCI** - UC Irvine Machine Learning Repository.
-- [`dataset`](https://archive.ics.uci.edu) **kaggle** - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 
 ### Big Data
 
