@@ -69,6 +69,7 @@
 - [`software`](https://github.com/alan-turing-institute/MLJ.jl) **MLJ.jl** - A Julia machine learning framework.
 - [`software`](https://pytorch.org/) **pytorch** - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [`software`](https://github.com/tensorflow/tensorflow) **Tensorflow** - An Python Open Source Machine Learning Framework for Everyone.
+- [`software`](https://github.com/sktime/sktime) **sktime** - A unified framework for machine learning with time series.
 - [`software`](https://github.com/aeon-toolkit/aeon) **aeon** - A toolkit for conducting machine learning tasks with time series data.
 - [`software`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
 - [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
