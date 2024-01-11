@@ -32,12 +32,12 @@ where:
     - `tag`: Mandatory. The following tags are allowed (you must obey this order when using multiple tags in an item):
         1. `course`: Suggestions for open-access courses shall use this tag. Whenever you use this tag, the short title must always be the course name and code (for instance, "EE364A, Convex Optimization I"), while the longer explanation must contain other information such as year, professor, platform name, etc. Playlists with structured sequence of videos are consired a course. You must only add free (in "free beer" sense) courses.
         1. `book`: Suggestions for open-access books shall use this tag. If you use this tag without the `course` tag, the short title must be the book name, while longer explanation must contain other information, such as author, year, edition, issue, etc. You must only add open access links to books.
+        1. `dataset`: Any open dataset shall use this tag.
         1. `software-tool`: Any software, toolbox, or package about this topic shall use this tag.
         1. `solution`: Suggestions for book's solution manuals shall use this tag.
         1. `material`: Suggestions for articles, class notes, websites, or any other reading material shall use this tag.
         1. `video`: Suggestion for isolated videos (which don't belong to a course or a playlist) shall use this tag.
         1. `code`: Codes that implement specific algorithms or are the book's code solution shall use this tag.
-        1. `dataset`: Any open dataset shall use this tag.
         1. `community`: Any online community where one can discuss more about this topic shall use this tag.
     - `Short title`: Mandatory. It must not have hyperlinks.
     - ` - A longer explanation`: Optional. It must not have hyperlinks. When used, you must separate it from the short title by using a dash character, that is, ` - `.
