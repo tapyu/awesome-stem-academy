@@ -52,8 +52,11 @@
 - [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works**.
 
 ## Artificial Intelligence & Data Science
-- [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
+- [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data. Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
 - [`course`](https://www.coursera.org/specializations/advanced-data-science-ibm) **Advanced Data Science with IBM Specialization** - Expert in Data Science, Machine Learning and AI. Become an IBM-approved Expert in Data Science, Machine Learning and Artificial Intelligence. Coursera.
+- [`software-tool`](https://github.com/khuyentran1401/data-science-template) [`material`](https://mathdatasimplified.com/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) [`video`](https://www.youtube.com/watch?v=TzvcPi3nsdw) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
+- [`software-tool`](https://github.com/facebookresearch/hydra) [`material`](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y&ab_channel=DataScienceSimplified) - **Hydra** - Stop Hard Coding in a Data Science Project, Use Config Files Instead.
+- [`software-tool`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
 - [`material`](https://github.com/microsoft/AI-For-Beginners/tree/main) **AI-For-Beginners** - 12 Weeks, 24 Lessons, AI for All.
 
 ### Machine Learning & Neural Networks
@@ -68,6 +71,7 @@
 - [`software-tool`](https://pytorch.org/) **pytorch** - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [`software-tool`](https://github.com/tensorflow/tensorflow) **Tensorflow** - An Python Open Source Machine Learning Framework for Everyone.
 - [`software-tool`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
+- [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
 - [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.**
 - [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.**
 - [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
@@ -78,12 +82,6 @@
 
 ### Natural Language Processing
 - [`software-tool`](https://fasttext.cc/) **fastText** - Library for efficient text classification and representation learning.
-
-### Software Tools
-- [`software-tool`](https://github.com/khuyentran1401/data-science-template) [`material`](https://mathdatasimplified.com/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) [`video`](https://www.youtube.com/watch?v=TzvcPi3nsdw) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
-- [`software-tool`](https://github.com/facebookresearch/hydra) [`material`](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y&ab_channel=DataScienceSimplified) - **Hydra** - Stop Hard Coding in a Data Science Project, Use Config Files Instead.
-- [`software-tool`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
-- [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
 
 ## Linear Algebra
 
