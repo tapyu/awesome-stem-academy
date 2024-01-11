@@ -65,7 +65,7 @@
 - [`software-tool`](https://pytorch.org/) **pytorch** - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [`software-tool`](https://github.com/tensorflow/tensorflow) **Tensorflow** - An Python Open Source Machine Learning Framework for Everyone.
 - [`software-tool`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
-- [`material`](https://arxiv.org/pdf/1810.07758.pdf) [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) **UCR Time Series Classification Archive**.
+- [`material`](https://arxiv.org/pdf/1810.07758.pdf) [`material`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) **UCR Time Series Classification Archive**.
 - [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.**
 - [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.**
 - [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
