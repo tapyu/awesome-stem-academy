@@ -60,7 +60,7 @@
 
 ### Machine Learning & Neural Networks
 
-- [`course`](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) **Convolutional Neural Networks** - A DeepLearningAI course on Youtube.
+- [`course`](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) **Convolutional Neural Networks** - A DeepLearningAI course on YouTube.
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/dynamicslab/databook_matlab) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
 - [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`reading`](https://arxiv.org/pdf/1810.07758.pdf) [`reading`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive**.
