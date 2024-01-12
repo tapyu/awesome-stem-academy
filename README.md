@@ -47,8 +47,8 @@
 
 ## Algorithm Theory
 
-- [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm**.
-- [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works**.
+- [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm.**
+- [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works.**
 
 ## Artificial Intelligence & Data Science
 - [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data. Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
@@ -63,8 +63,8 @@
 - [`course`](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) **Convolutional Neural Networks** - A DeepLearningAI course on YouTube.
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/irustandi/Neural-Networks-and-Learning-Machines-Haykin) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/123880-fundamentals-of-neural-networks) [`code`](https://github.com/ocimakamboj/NNLS?tab=readme-ov-file) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
-- [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`reading`](https://arxiv.org/pdf/1810.07758.pdf) [`reading`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive**.
-- [`dataset`](http://tseregression.org/) [`reading`](https://arxiv.org/pdf/2006.10996.pdf) **UEA & UCR Time Series Extrinsic Regression Repository**.
+- [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`reading`](https://arxiv.org/pdf/1810.07758.pdf) [`reading`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive.**
+- [`dataset`](http://tseregression.org/) [`reading`](https://arxiv.org/pdf/2006.10996.pdf) **UEA & UCR Time Series Extrinsic Regression Repository.**
 - [`dataset`](https://archive.ics.uci.edu) **UCI** - UC Irvine Machine Learning Repository.
 - [`dataset`](https://www.kaggle.com/) **kaggle** - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 - [`software`](https://github.com/alan-turing-institute/MLJ.jl) **MLJ.jl** - A Julia machine learning framework.
@@ -116,8 +116,8 @@
 - [`sofware-tool`](https://cran.r-project.org/web/packages/CVXR/vignettes/cvxr_intro.html) **CVXR** - R package that provides an object-oriented modeling language for convex optimization, similar to CVX, CVXPY, YALMIP, and Convex.jl. 
 - [`sofware-tool`](https://github.com/jump-dev/Convex.jl) **Convex.jl** - A Julia package for disciplined convex programming. 
 - [`sofware-tool`](https://github.com/jump-dev/JuMP.jl) **JuMP.jl** - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). 
-- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types**.
-- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer**.
+- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types.**
+- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer.**
 
 ## Numerical Methods
 
