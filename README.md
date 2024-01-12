@@ -1,3 +1,5 @@
+# Awesome STEM Academy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <p align="center">
   <a href="httpg://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true"> <img src="https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen">
 <p align="center">
@@ -47,8 +49,8 @@
 
 ## Algorithm Theory
 
-- [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm**.
-- [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works**.
+- [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm** - To pass.
+- [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works** - To pass.
 
 ## Artificial Intelligence & Data Science
 - [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data. Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
@@ -56,15 +58,15 @@
 - [`software`](https://github.com/khuyentran1401/data-science-template) [`reading`](https://mathdatasimplified.com/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) [`video`](https://www.youtube.com/watch?v=TzvcPi3nsdw) **cookiecutter** - How to Structure a Data Science Project for Maintainability.
 - [`software`](https://github.com/facebookresearch/hydra) [`reading`](https://towardsdatascience.com/stop-hard-coding-in-a-data-science-project-use-config-files-instead-479ac8ffc76f) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y&ab_channel=DataScienceSimplified) - **Hydra** - Stop Hard Coding in a Data Science Project, Use Config Files Instead.
 - [`software`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
-- [`reading`](https://github.com/microsoft/AI-For-Beginners/tree/main) **AI-For-Beginners** - 12 Weeks, 24 Lessons, AI for All.
+- [`reading`](https://github.com/microsoft/AI-For-Beginners/tree/main) **AI-For-Beginners** - A 12 Weeks, 24 Lessons, AI for All.
 
 ### Machine Learning & Neural Networks
 
 - [`course`](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) **Convolutional Neural Networks** - A DeepLearningAI course on YouTube.
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/irustandi/Neural-Networks-and-Learning-Machines-Haykin) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/123880-fundamentals-of-neural-networks) [`code`](https://github.com/ocimakamboj/NNLS?tab=readme-ov-file) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
-- [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`reading`](https://arxiv.org/pdf/1810.07758.pdf) [`reading`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive**.
-- [`dataset`](http://tseregression.org/) [`reading`](https://arxiv.org/pdf/2006.10996.pdf) **UEA & UCR Time Series Extrinsic Regression Repository**.
+- [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`reading`](https://arxiv.org/pdf/1810.07758.pdf) [`reading`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) **UCR Time Series Classification Archive** - To pass.
+- [`dataset`](http://tseregression.org/) [`reading`](https://arxiv.org/pdf/2006.10996.pdf) **UEA & UCR Time Series Extrinsic Regression Repository** - To pass.
 - [`dataset`](https://archive.ics.uci.edu) **UCI** - UC Irvine Machine Learning Repository.
 - [`dataset`](https://www.kaggle.com/) **kaggle** - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 - [`software`](https://github.com/alan-turing-institute/MLJ.jl) **MLJ.jl** - A Julia machine learning framework.
@@ -74,9 +76,9 @@
 - [`software`](https://github.com/aeon-toolkit/aeon) **aeon** - A toolkit for conducting machine learning tasks with time series data.
 - [`software`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
 - [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
-- [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.**
-- [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.**
-- [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
+- [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.** - To pass.
+- [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.** - To pass.
+- [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.** - To pass.
 
 ### Big Data
 
@@ -97,10 +99,10 @@
 - [`hardware`](https://github.com/greatscottgadgets/hackrf) **HackRF** - A low cost, open source Software Defined Radio platform.
 - [`hardware`](https://github.com/RfidResearchGroup/proxmark3) **proxmark3** - Swiss-army tool of RFID, allowing for interactions with the vast majority of RFID tags on a global scale.
 - [`software`](https://www.gnuradio.org) **GNU Radio** - Free software development toolkit that provides signal processing blocks to implement software-defined radios and signal processing systems.
-- [`reading`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated.**
-- [`reading`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis.**
-- [`reading`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies.**
-- [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design.**
+- [`reading`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated.** - To pass.
+- [`reading`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis.** - To pass.
+- [`reading`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies.** - To pass.
+- [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design.** - To pass.
 - [`reading`](https://s3.amazonaws.com/embeddedrelated/user/6420/lets_assume_system_synchronized_2_94379.pdf) **Let's Assume the System is Synchronized** - By Fred Harris.
 - [`code`](https://people.scs.carleton.ca/~barbeau/SDRCRBook/index.shtml) **Software Radio for Experimenters with GNU Radio** - Implemented in Octave and Python by Michel Barbeau.
 
@@ -116,8 +118,8 @@
 - [`sofware-tool`](https://cran.r-project.org/web/packages/CVXR/vignettes/cvxr_intro.html) **CVXR** - R package that provides an object-oriented modeling language for convex optimization, similar to CVX, CVXPY, YALMIP, and Convex.jl. 
 - [`sofware-tool`](https://github.com/jump-dev/Convex.jl) **Convex.jl** - A Julia package for disciplined convex programming. 
 - [`sofware-tool`](https://github.com/jump-dev/JuMP.jl) **JuMP.jl** - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). 
-- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types**. 
-- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer**. 
+- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types** - To-pass.
+- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer** - To-pass.
 
 ## Numerical Methods
 
