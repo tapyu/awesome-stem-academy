@@ -116,8 +116,8 @@
 - [`sofware-tool`](https://cran.r-project.org/web/packages/CVXR/vignettes/cvxr_intro.html) **CVXR** - R package that provides an object-oriented modeling language for convex optimization, similar to CVX, CVXPY, YALMIP, and Convex.jl. 
 - [`sofware-tool`](https://github.com/jump-dev/Convex.jl) **Convex.jl** - A Julia package for disciplined convex programming. 
 - [`sofware-tool`](https://github.com/jump-dev/JuMP.jl) **JuMP.jl** - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). 
-- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types** - To-pass.
-- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer** - To-pass.
+- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types**
+- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer**
 
 ## Numerical Methods
 
