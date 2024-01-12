@@ -57,6 +57,7 @@
 - [`software`](https://github.com/facebookresearch/hydra) [`reading`](https://mathdatasimplified.com/stop-hard-coding-in-a-data-science-project-use-configuration-files-instead) [`video`](https://www.youtube.com/watch?v=jaX9zrC7y4Y) - **Hydra** - Stop Hard Coding in a Data Science Project, Use Config Files Instead.
 - [`software`](https://github.com/gradio-app/gradio) **gradio** - Build and share delightful machine learning apps, all in Python.  
 - [`reading`](https://github.com/microsoft/AI-For-Beginners/tree/main) **AI-For-Beginners** - A 12 Weeks, 24 Lessons, AI for All.
+- [`reading`](https://khuyentran1401.github.io/reproducible-data-science/README.html) - **Build a Reproducible and Maintainable Data Science Project** - A reading material.
 
 ### Machine Learning & Neural Networks
 
