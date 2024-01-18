@@ -73,7 +73,7 @@
 - [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.**
 - [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.**
 - [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
-- [`video`](https://www.youtube.com/watch?v=vhz2pgfOpaw) **Bias Variance trade-off/**
+- [`video`](https://www.youtube.com/watch?v=vhz2pgfOpaw) **Bias Variance trade-off.**
 
 ### Big Data
 
