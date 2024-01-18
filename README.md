@@ -47,8 +47,8 @@
 
 ## Algorithm Theory
 
-- [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm** - A reading material.
-- [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works** - A reading material.
+- [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm.**
+- [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works.**
 
 ## Artificial Intelligence & Data Science
 - [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data. Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
@@ -70,9 +70,10 @@
 - [`software`](https://github.com/aeon-toolkit/aeon) **aeon** - A toolkit for conducting machine learning tasks with time series data.
 - [`software`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
 - [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
-- [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch** - A reading material.
-- [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth** - A reading material.
-- [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks** - A reading material.
+- [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.**
+- [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.**
+- [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
+- [`video`](https://www.youtube.com/watch?v=vhz2pgfOpaw) **Bias Variance trade-off/**
 
 ### Big Data
 
@@ -93,10 +94,10 @@
 - [`hardware`](https://github.com/greatscottgadgets/hackrf) **HackRF** - A low cost, open source Software Defined Radio platform.
 - [`hardware`](https://github.com/RfidResearchGroup/proxmark3) **proxmark3** - Swiss-army tool of RFID, allowing for interactions with the vast majority of RFID tags on a global scale.
 - [`software`](https://www.gnuradio.org) **GNU Radio** - Free software development toolkit that provides signal processing blocks to implement software-defined radios and signal processing systems.
-- [`reading`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated** - A reading material.
-- [`reading`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis** - A reading material.
-- [`reading`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies** - A reading material.
-- [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design** - A reading material.
+- [`reading`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated.**
+- [`reading`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis.**
+- [`reading`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies.**
+- [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design.**
 - [`reading`](https://s3.amazonaws.com/embeddedrelated/user/6420/lets_assume_system_synchronized_2_94379.pdf) **Let's Assume the System is Synchronized** - By Fred Harris.
 - [`code`](https://people.scs.carleton.ca/~barbeau/SDRCRBook/index.shtml) **Software Radio for Experimenters with GNU Radio** - Implemented in Octave and Python by Michel Barbeau.
 
@@ -112,8 +113,8 @@
 - [`sofware-tool`](https://cran.r-project.org/web/packages/CVXR/vignettes/cvxr_intro.html) **CVXR** - R package that provides an object-oriented modeling language for convex optimization, similar to CVX, CVXPY, YALMIP, and Convex.jl. 
 - [`sofware-tool`](https://github.com/jump-dev/Convex.jl) **Convex.jl** - A Julia package for disciplined convex programming. 
 - [`sofware-tool`](https://github.com/jump-dev/JuMP.jl) **JuMP.jl** - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). 
-- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types** - A reading material.
-- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer** - A reading material.
+- [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types.**
+- [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer.**
 
 ## Numerical Methods
 
