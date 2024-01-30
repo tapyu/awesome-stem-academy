@@ -82,6 +82,8 @@
 ### Natural Language Processing
 - [`software`](https://fasttext.cc/) **fastText** - Library for efficient text classification and representation learning.
 
+- [`code`](https://github.com/rasbt/LLMs-from-scratch) **LLMs-from-scratch** - Implementing a ChatGPT-like LLM from scratch, step by step.
+
 ## Linear Algebra
 
 - [`course`](https://github.com/mitmath/1806) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) **MIT 18.06, Linear Algebra** - By Professor Gilbert Strang.
