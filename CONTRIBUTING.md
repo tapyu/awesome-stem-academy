@@ -50,3 +50,9 @@ where:
     - **You should use multiple tags in a same item only if their contents are closely related and if the relationship is easy to infer** (in the previous example, it is easy to understand that all links refer to the same book). If one of these conditions is not met, split the suggestion in multiple items using only one tag per item.
     - Don't try to explain all tags in the short title or in the longer explanation. Instead, stick with the main tag, which is the first tag of the item (in the previous example, the main tag is `book`). All other added tags must be related to the main tag.
     - Although we can repeat a same tag multiple times if necessary, you cannot repeat the main tag multiple times. In the previous example, you can use as many `software-tool`, `solution`, etc... as you need, but you cannot add another `book` tag to this item. Exceptional cases should be duly justified in the PR.
+
+## FAQ
+
+### Where is Arts?
+
+![](assets/Teletubbies-handshake.png)
