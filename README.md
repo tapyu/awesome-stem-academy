@@ -124,6 +124,7 @@
 - [`software`](https://docs.sciml.ai/DiffEqDocs/latest/) **DifferentialEquations.jl** - A suite for numerically solving differential equations written in Julia and available for use in Julia, Python, and R.
 - [`software`](https://iterativesolvers.julialinearalgebra.org/dev/) **IterativeSolvers.jl** - A Julia package that provides efficient iterative algorithms for solving large linear systems, eigenproblems, and singular value problems.
 - [`software`](https://docs.sciml.ai/Integrals/stable/) **Integrals.jl** - An unified interface for the numerical approximation of integrals (quadrature) in Julia.
+- [`software`](https://github.com/dextorious/NumericalIntegration.jl) **NumericalIntegration.jl** - Basic numerical integration routines for presampled data.
 - [`software`](https://github.com/JuliaDiff/FiniteDifferences.jl) **FiniteDifferences.jl** - A Julia package for numerical differentiation.
 - [`software`](https://github.com/JuliaDiff/FiniteDiff.jl) **FiniteDiff.jl** - A Julia package for numerical differentiation.
 - [`software`](https://juliadiff.org/ForwardDiff.jl/stable/) **ForwardDiff.jl** - A Julia package for automatic differentiation (AD).
