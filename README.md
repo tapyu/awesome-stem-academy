@@ -49,6 +49,7 @@
 
 - [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm.**
 - [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works.**
+- [`code`](https://github.com/krahets/hello-algo/blob/main/README-en.md) **hello-algo** - Data Structures and Algorithms Crash Course with Animated Illustrations and Off-the-Shelf Code.
 
 ## Artificial Intelligence & Data Science
 - [`course`](https://www.coursera.org/specializations/data-science-python) **Applied Data Science with Python Specialization** - Gain new insights into your data. Learn to apply data science methods and techniques, and acquire analysis skills. University of Michigan. Coursera.
