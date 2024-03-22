@@ -100,7 +100,7 @@
 - [`hardware`](https://github.com/greatscottgadgets/hackrf) **HackRF** - A low cost, open source Software Defined Radio platform.
 - [`hardware`](https://github.com/RfidResearchGroup/proxmark3) **proxmark3** - Swiss-army tool of RFID, allowing for interactions with the vast majority of RFID tags on a global scale.
 - [`software`](https://www.gnuradio.org) **GNU Radio** - Free software development toolkit that provides signal processing blocks to implement software-defined radios and signal processing systems.
-- [`software`(https://gage.upc.edu/en/learning-materials/software-tools/glab-tool-suite) - **gLAB** - Developed under an European Space Agency (ESA) Contract by the research group of Astronomy and Geomatics (gAGE) from the Universitat Politecnica de Catalunya (UPC), is an interactive educational multipurpose package to process and analyse GNSS data.
+- [`software`](https://gage.upc.edu/en/learning-materials/software-tools/glab-tool-suite) - **gLAB** - Developed under an European Space Agency (ESA) Contract by the research group of Astronomy and Geomatics (gAGE) from the Universitat Politecnica de Catalunya (UPC), is an interactive educational multipurpose package to process and analyse GNSS data.
 - [`reading`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated.**
 - [`reading`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis.**
 - [`reading`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies.**
