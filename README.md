@@ -60,6 +60,7 @@
 
 - [`course`](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) **Convolutional Neural Networks** - A DeepLearningAI course on YouTube.
 - [`course`](https://www.cs.cmu.edu/~10315-s23/#current_rec) **Introduction to Machine Learning** - 10-315, Spring 2023. Carnegie Mellon University (CMU).
+- [`course`](https://www.cs.cmu.edu/~10606-f22/) [`code`](https://github.com/bwilder0/10606-f23/tree/main) **Mathematical Foundations for Machine Learning** - 10-606, Fall 2022. Carnegie Mellon University (CMU).
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://mml-book.github.io/book/mml-book.pdf) [`reading`](https://mml-book.github.io/) [`code`](https://github.com/mml-book/mml-book.github.io) **Mathematics for Machine Learning Book** - by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth. <!-- It uses numerator layout! -->
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/irustandi/Neural-Networks-and-Learning-Machines-Haykin) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/123880-fundamentals-of-neural-networks) [`code`](https://github.com/ocimakamboj/NNLS?tab=readme-ov-file) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
