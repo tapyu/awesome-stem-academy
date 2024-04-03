@@ -35,7 +35,7 @@ where:
         1. `dataset`: Any open dataset shall use this tag.
         1. `hardware`: Open-source hardware projects, proprietary hardware, or development board platforms shall use this tag.
         1. `software`: Open-source software projects, proprietary programs, toolboxs, or packages shall use this tag.
-        1. `solution`: Suggestions for book's solution manuals shall use this tag.
+        1. `solution`: Suggestions for book's solution manuals shall use this tag. If the solution is code, you must use `code` instead.
         1. `reading`: Suggestions for articles, class notes, websites, or any other reading material shall use this tag.
         1. `video`: Suggestion for isolated videos (which don't belong to a course or a playlist) shall use this tag.
         1. `code`: Codes that implement specific algorithms or are the book's code solution shall use this tag.
