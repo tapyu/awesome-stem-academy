@@ -29,8 +29,6 @@
 - [Algorithm Theory](#algorithm-theory)
 - [Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
   - [Machine Learning & Neural Networks](#machine-learning--neural-networks)
-  - [Big Data](#big-data)
-  - [Natural Language Processing](#natural-language-processing)
 - [Linear Algebra](#linear-algebra)
 - [Communication Systems](#communication-systems)
   - [GNSS](#gnss)
