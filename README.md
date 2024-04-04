@@ -45,7 +45,7 @@
 
 ## Algorithm Theory
 
-- [`course`](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao) [`book`](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) [`code`](https://www.algorist.com/) **CSE373 - Analysis of Algorithms** - Taught by Prof. Steven Skiena topic such as data structure, searching and sorting algorithms, shortest-path algorithms, dynamic programming, and NP-Completeness.
+- [`course`](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao) [`book`](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) [`code`](https://www.algorist.com/) **CSE373 - Analysis of Algorithms** - Taught by Prof. Steven Skiena. He covers topic such as data structure, searching and sorting algorithms, shortest-path algorithms, dynamic programming, and NP-Completeness.
 - [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm.**
 - [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works.**
 - [`code`](https://github.com/krahets/hello-algo/blob/main/README-en.md) **hello-algo** - Data Structures and Algorithms Crash Course with Animated Illustrations and Off-the-Shelf Code.
