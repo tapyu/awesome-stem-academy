@@ -21,14 +21,11 @@ where:
     - `tag`: Mandatory. The following tags are allowed (you must obey this order when using multiple tags in an item):
         1. `course`: Suggestions for open-access courses shall use this tag. Whenever you use this tag, the short title must always be the course name and code (for instance, "EE364A, Convex Optimization I"), while the longer explanation must contain other information such as year, professor, platform name, etc. Playlists with structured sequence of videos are consired a course. You must only add free (in "free beer" sense) courses.
         1. `book`: Suggestions for open-access books shall use this tag. If you use this tag without the `course` tag, the short title must be the book name, while longer explanation must contain other information, such as author, year, edition, issue, etc. You must only add open access links to books.
-        1. `dataset`: Any open dataset shall use this tag.
-        1. `hardware`: Open-source hardware projects, proprietary hardware, or development board platforms shall use this tag.
         1. `software`: Open-source software projects, proprietary programs, toolboxs, or packages shall use this tag.
         1. `solution`: Suggestions for book's solution manuals shall use this tag. If the solution is code, you must use `code` instead.
         1. `reading`: Suggestions for articles, class notes, websites, or any other reading material shall use this tag.
         1. `video`: Suggestion for isolated videos (which don't belong to a course or a playlist) shall use this tag.
         1. `code`: Codes that implement specific algorithms or are the book's code solution shall use this tag.
-        1. `community`: Any online community where one can discuss more about this topic shall use this tag.
     - `Short title`: Mandatory. It must not have hyperlinks.
     - ` - A longer explanation`: Optional. It must not have hyperlinks. When used, you must separate it from the short title by using a dash character, that is, ` - `.
 - The item must always end with a period.
@@ -38,7 +35,8 @@ where:
   In this example, we have one link to the book, one to solution manual, one to material, and two to code solutions which are all related to the book "Introduction to Linear Algebra". We gain conciseness at the cost of lack of details. When using multiple tag, follow these guidelines:
     - **You should use multiple tags in a same item only if their contents are closely related and if the relationship is easy to infer** (in the previous example, it is easy to understand that all links refer to the same book). If one of these conditions is not met, split the suggestion in multiple items using only one tag per item.
     - Don't try to explain all tags in the short title or in the longer explanation. Instead, stick with the main tag, which is the first tag of the item (in the previous example, the main tag is `book`). All other added tags must be related to the main tag.
-    - Although we can repeat a same tag multiple times if necessary, you cannot repeat the main tag multiple times. In the previous example, you can use as many `software-tool`, `solution`, etc... as you need, but you cannot add another `book` tag to this item. Exceptional cases should be duly justified in the PR.
+    - Although we can repeat a same tag multiple times if necessary, you cannot repeat the main tag multiple times. In the previous example, you can use as many `reading`, `code`, etc... as you need, but you cannot add another `book` tag to this item .Exceptional cases should be duly justified in the PR).
+    - `solution` and `software` cannot be the main tag.
 
 ## FAQ
 
