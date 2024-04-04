@@ -100,12 +100,6 @@
 - [`course`](https://web.stanford.edu/class/ee364b/) **EE364b - Convex Optimization II** - Stanford Engineering Everywhere - Stephen Boyd. 
 - [`course`](https://www.edx.org/learn/engineering/stanford-university-convex-optimization) [`code`](https://github.com/NoamGit/CVX101-HW-with-python) [`code`](https://github.com/PKUFlyingPig/Standford_CVX101) **CVX101 Stanford** - StanfordOnline: Convex Optimization. 
 - [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`solution`](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) [`reading`](https://web.mit.edu/~jadbabai/www/EE605/additional_exercises.pdf) **Convex Optimization** - Boyd, S.P. and Vandenberghe, L., 2004. Cambridge university press. 
-- [`software`](https://www.cvxpy.org/) [`code`](https://github.com/cvxgrp/cvx_short_course/tree/master) **CVXPY** - Open source Python-embedded modeling language for convex optimization problems. 
-- [`software`](https://github.com/cvxgrp/ncvx) **NCVX** - Python package for modeling and solving problems with convex objectives and decision variables from a nonconvex set. Built on top of CVXPY. 
-- [`sofware-tool`](http://cvxr.com/) [`reading`](http://cvxr.com/cvx/doc/index.html) **CVX** - A Matlab-based convex modeling framework. 
-- [`sofware-tool`](https://cran.r-project.org/web/packages/CVXR/vignettes/cvxr_intro.html) **CVXR** - R package that provides an object-oriented modeling language for convex optimization, similar to CVX, CVXPY, YALMIP, and Convex.jl. 
-- [`sofware-tool`](https://github.com/jump-dev/Convex.jl) **Convex.jl** - A Julia package for disciplined convex programming. 
-- [`sofware-tool`](https://github.com/jump-dev/JuMP.jl) **JuMP.jl** - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). 
 - [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types.**
 - [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer.**
 
