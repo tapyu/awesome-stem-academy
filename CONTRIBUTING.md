@@ -1,5 +1,16 @@
 # Contribution Guidelines
 
+
+## Table of Contents
+
+- [This is an AWESOME list](#this-is-an-awesome-list)
+- [Adding to this list](#adding-to-this-list)
+
+
+## This is an AWESOME list
+
+Which means that the list does not pretend to contain all the resources available in the world. Do not add well-known software packages, basic tutorials, documentation, etc. Instead contribute with bizarre links about the topics, amazing blog posts and tutorials, new software, interesting people, fresh insights, this essential book you have read and whatever you consider awesome! 
+
 ## Adding to this list
 
 Please ensure your pull request adheres to the following guidelines:
