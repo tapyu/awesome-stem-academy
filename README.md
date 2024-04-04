@@ -86,8 +86,6 @@
 - [`code`](https://people.scs.carleton.ca/~barbeau/SDRCRBook/index.shtml) **Software Radio for Experimenters with GNU Radio** - Implemented in Octave and Python by Michel Barbeau.
 
 ### GNSS
-- [`software`](https://gage.upc.edu/en/learning-materials/software-tools/glab-tool-suite) - **gLAB** - Developed under an European Space Agency (ESA) Contract by the research group of Astronomy and Geomatics (gAGE) from the Universitat Politecnica de Catalunya (UPC), is an interactive educational multipurpose package to process and analyse GNSS data.
-- [`software`](https://www.rtklib.com/) - **RTKLIB** - Another An Open Source Program Package for GNSS Positioning.
 - [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design.**
 - [`code`](https://geodesy.noaa.gov/gps-toolbox/) **GPS Toolbox** - GPS Toolbox topical collection of the journal GPS Solutions. It provides a means for distributing the source code and algorithms discussed in the GPS Toolbox topical collection.
 
