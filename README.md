@@ -65,29 +65,12 @@
 - [`book`](https://libgen.rs/book/index.php?md5=6C72973849A5A771F5D66BF9A2694FC6) [`code`](https://github.com/dynamicslab/databook_matlab) **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** - By Steven L. Brunton and J. Nathan Kutz. 1th edition.
 - [`book`](https://mml-book.github.io/book/mml-book.pdf) [`reading`](https://mml-book.github.io/) [`code`](https://github.com/mml-book/mml-book.github.io) **Mathematics for Machine Learning Book** - by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth. <!-- It uses numerator layout! -->
 - [`book`](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf) [`code`](https://github.com/irustandi/Neural-Networks-and-Learning-Machines-Haykin) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/123880-fundamentals-of-neural-networks) [`code`](https://github.com/ocimakamboj/NNLS?tab=readme-ov-file) **Neural Networks and Learning Machines** - By Simon Haykin. 3th edition.
-- [`dataset`](https://archive.ics.uci.edu) **UCI** - UC Irvine Machine Learning Repository.
-- [`dataset`](https://www.timeseriesclassification.com/) [`dataset`](http://tseregression.org/) [`dataset`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) [`reading`](https://arxiv.org/pdf/2006.10996.pdf) [`reading`](https://arxiv.org/pdf/1810.07758.pdf) [`reading`](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/BriefingDocument2018.pdf) [`reading`](https://arxiv.org/pdf/1811.00075.pdf) **UEA & UCR Time Series Datasets** - Two widely used time series datasets, which are frequently used toghether for Time Series Classification (TSC), Time Series Clustering (TSCL) and Time Series Extrinsic Regression (TSER).
-- [`dataset`](https://www.kaggle.com/) **kaggle** - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
-- [`software`](https://github.com/alan-turing-institute/MLJ.jl) **MLJ.jl** - A Julia machine learning framework.
-- [`software`](https://pytorch.org/) **pytorch** - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-- [`software`](https://github.com/tensorflow/tensorflow) **Tensorflow** - An Python Open Source Machine Learning Framework for Everyone.
-- [`software`](https://github.com/sktime/sktime) [`video`](https://youtube.com/watch?v=ODspi8-uWgo) [`code`](https://github.com/sktime/sktime-tutorial-pydata-global-2021) [`code`](https://github.com/sktime/sktime/tree/main/examples) **sktime** - A unified framework for machine learning with time series.
-- [`software`](https://github.com/aeon-toolkit/aeon) **aeon** - A toolkit for conducting machine learning tasks with time series data.
-- [`software`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
 - [`video`](https://www.youtube.com/watch?v=mWgRprKIoIs) **Creating Deep Learning Models Using Keras.** - Deep Learning, Simplilearn.
 - [`video`](https://www.youtube.com/watch?v=w8yWXqWQYmU) **Building a neural network from scratch.**
 - [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0) **How convolutional neural networks work, in depth.**
 - [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
 - [`video`](https://www.youtube.com/watch?v=vhz2pgfOpaw) **Bias Variance trade-off.**
-
-### Big Data
-
-- [`software`](https://github.com/iterative/dvc) **DVC - Data Version Control** - ML Experiments Management with Git.
-
-### Natural Language Processing
-- [`software`](https://fasttext.cc/) **fastText** - Library for efficient text classification and representation learning.
-
-- [`code`](https://github.com/rasbt/LLMs-from-scratch) **LLMs-from-scratch** - Implementing a ChatGPT-like LLM from scratch, step by step.
+- [`code`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
 
 ## Linear Algebra
 
