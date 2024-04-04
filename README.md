@@ -111,7 +111,6 @@
 - [`course`](https://ocw.mit.edu/courses/6-341-discrete-time-signal-processing-fall-2005/) **MIT OpenCourseWare in Discrete-Time Signal Processing** - It addresses the representation, analysis, and design of discrete time signals and systems.
 - [`course`](https://github.com/GuitarsAI/ADSP_Tutorials) **Advanced Signal Processing Notebooks and Tutorials** - By Prof. Dr. -Ing. Gerald Schuller, Applied Media Systems Group, Technische Universität Ilmenau.
 - [`book`](https://azrael.digipen.edu/MAT321/DiscreteTimeSignalProcessing3.pdf) [`solution`](https://github.com/cdjhz/Discrete-time-Signal-Processing-Solution/tree/master) **Discrete-Time Signal Processing** - By Alan V. Oppenheim and Ronald W. Schafer. 3th edition. Prentice Hall Signal Processing.
-- [`software`](https://github.com/JuliaDSP/DSP.jl) **DSP.jl** - Julia package for filter design, periodograms, window functions, and other digital signal processing functionality.
 
 ### Adaptive Filtering & Statistical Signal Processing
 - [`course`](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) [`code`](https://github.com/robical/StatisticalSignalProcessing) **MIT OpenCourseWare 18.065** - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning.
