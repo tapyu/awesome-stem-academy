@@ -112,17 +112,6 @@
 ## Numerical Methods
 
 - [`book`](https://gdcboysang.ac.in/About/Droid/uploads/Numerical%20Methods.pdf) [`code`](https://github.com/danimateos/numerical_methods) [`code`](https://github.com/asukumari/Numerical-Methods) **Numerical Methods for Engineers** - By Steven C. Chapra and Raymond P. Canale. 7th edition.
-- [`software`](https://docs.sciml.ai/DiffEqDocs/latest/) **DifferentialEquations.jl** - A suite for numerically solving differential equations written in Julia and available for use in Julia, Python, and R.
-- [`software`](https://iterativesolvers.julialinearalgebra.org/dev/) **IterativeSolvers.jl** - A Julia package that provides efficient iterative algorithms for solving large linear systems, eigenproblems, and singular value problems.
-- [`software`](https://docs.sciml.ai/Integrals/stable/) **Integrals.jl** - An unified interface for the numerical approximation of integrals (quadrature) in Julia.
-- [`software`](https://github.com/dextorious/NumericalIntegration.jl) **NumericalIntegration.jl** - Basic numerical integration routines for presampled data.
-- [`software`](https://github.com/JuliaDiff/FiniteDifferences.jl) **FiniteDifferences.jl** - A Julia package for numerical differentiation.
-- [`software`](https://github.com/JuliaDiff/FiniteDiff.jl) **FiniteDiff.jl** - A Julia package for numerical differentiation.
-- [`software`](https://juliadiff.org/ForwardDiff.jl/stable/) **ForwardDiff.jl** - A Julia package for automatic differentiation (AD).
-- [`software`](https://github.com/JuliaDiff/ReverseDiff.jl) **ReverseDiff.jl** - A Julia package for automatic differentiation (AD).
-- [`software`](https://github.com/JuliaMath/Roots.jl) **Roots.jl** - Root-finding functions for Julia. 
-- [`software`](https://github.com/JuliaMath/Interpolations.jl) **Interpolations.jl** - Fast, continuous interpolation of discrete datasets in Julia.
-- [`software`](https://github.com/SciML/DataInterpolations.jl) **DataInterpolations.jl** - A Julia library for data interpolation and smoothing functions.
 
 ## Signal Processing
 
