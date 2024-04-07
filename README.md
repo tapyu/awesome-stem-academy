@@ -69,6 +69,7 @@
 - [`video`](https://www.youtube.com/watch?v=uapdILWYTzE) **MIT 6.S191 (2022): Convolutional Neural Networks.**
 - [`video`](https://www.youtube.com/watch?v=vhz2pgfOpaw) **Bias Variance trade-off.**
 - [`code`](https://github.com/wiseodd/generative-models) **generative-models** - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
+- [`code`](https://github.com/rasbt/LLMs-from-scratch) **LLMs-from-scratch** - Implementing a ChatGPT-like LLM from scratch, step by step.
 
 ## Linear Algebra
 
