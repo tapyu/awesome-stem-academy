@@ -47,6 +47,7 @@
 
 - [`course`](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao) [`book`](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) [`code`](https://www.algorist.com/) **CSE373 - Analysis of Algorithms** - Taught by Prof. Steven Skiena. He covers topic such as data structure, searching and sorting algorithms, shortest-path algorithms, dynamic programming, and NP-Completeness.
 - [`course`](https://see.stanford.edu/Course/CS106B) **CS106B - Programming Abstractions** - Stanford Engineering Everywhere: Object-oriented programming, fundamental data structures (such as stacks, queues, sets) and data-directed design. Recursion and recursive data structures (linked lists, trees, graphs). Introduction to time and space complexity analysis. Uses the programming language C++ covering its basic facilities.
+- [`reading`](https://www.teach.cs.toronto.edu/~csc110y/fall/notes/) **Foundations of Computer Science** - Course Notes for CSC110 and CSC111: Propositional Logic; Big-O, Omega, Theta; Data Types, Abstract and Concrete; Linked Lists; Induction and Recursion; Trees; Graphs; Sorting.
 - [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm.**
 - [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works.**
 - [`code`](https://github.com/krahets/hello-algo/blob/main/README-en.md) **hello-algo** - Data Structures and Algorithms Crash Course with Animated Illustrations and Off-the-Shelf Code.
