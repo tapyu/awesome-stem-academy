@@ -50,6 +50,7 @@
 - [`reading`](https://www.teach.cs.toronto.edu/~csc110y/fall/notes/) **Foundations of Computer Science** - Course Notes for CSC110 and CSC111: Propositional Logic; Big-O, Omega, Theta; Data Types, Abstract and Concrete; Linked Lists; Induction and Recursion; Trees; Graphs; Sorting.
 - [`video`](https://www.youtube.com/watch?v=A60q6dcoCjw) **The hidden beauty of the A\* algorithm.**
 - [`video`](https://www.youtube.com/watch?v=EFg3u_E6eHU) **How Dijkstra's Algorithm Works.**
+- [`video`](https://www.youtube.com/watch?v=K1a2Bk8NrYQ) **Understanding B-Trees: The Data Structure Behind Modern Databases**
 - [`code`](https://github.com/krahets/hello-algo/blob/main/README-en.md) **hello-algo** - Data Structures and Algorithms Crash Course with Animated Illustrations and Off-the-Shelf Code.
 
 ## Artificial Intelligence & Data Science
