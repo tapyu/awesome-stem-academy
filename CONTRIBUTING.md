@@ -37,7 +37,7 @@ where:
     - `Short title`: Mandatory. It must not have hyperlinks.
     - ` - A longer explanation`: Optional. It must not have hyperlinks. When used, you must separate it from the short title by using a dash character, that is, ` - `.
 - The item must always end with a period.
-- In some cases, you might want to use multiple tags in the same item. For instance, if you have a link to a book, a solution manual, two code solutions, and a reading material, all related to this book, you can suggest something like:
+- In some cases, you might want to use multiple tags in the same item. For instance, if you have many links related to a book, you can suggest something like:
     - [`book`](https://drive.google.com/file/d/1zdIDyV8qDBWNmmlwhBw7EtLu_pyacdOh/view) [`solution`](https://github.com/8128/SharedResources/blob/master/Introduction%20to%20Linear%20Algebra%205th%202016/Introduction%20to%20Linear%20Algebra%2C%205th%20%20(Solutions)%20%E2%80%93%202016.pdf) [`reading`](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/2166-introduction-to-linear-algebra) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) **Introduction to Linear Algebra** - Gilbert Strang. 5th edition.
 
   In this example, we have one link to the book, one to solution manual, one to material, and two to code solutions which are all related to the book "Introduction to Linear Algebra". We gain conciseness at the cost of lack of details. When using multiple tag, follow these guidelines:
