@@ -14,7 +14,7 @@
 
 **The contributors are encouraged to condense related contents into one single item**. For instance, if you took an [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) course, which used a specific book that contains a solution manual, and you solved the all the computational homeworks from this course. You are encouraged to create a single item with all these gathered links.
 
-Please ensure your pull request adheres to the following guidelines:
+Please ensure that your pull request adheres to the following guidelines:
 
 - Two section levels are allowed: `## Main subject` and `### Subarea`.
     - Both the `## Main subject` and the `### Subarea` must be in [title case](https://capitalizemytitle.com/).
