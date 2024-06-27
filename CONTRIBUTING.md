@@ -6,7 +6,7 @@
 
 **You must only suggest STEM academic resources:**
 
-- Books, courses, and codes that implements some any algorithms which requires as theoterical background (e.g., a Kalman filter, a multilayer perceptron, a sorting algorithm, etc) are more than welcome.
+- Books, courses, and codes that implements algorithm which require some theoterical background are more than welcome. Kalman filter, multilayer perceptron, sorting algorithms are some examples.
 - Suggestions of programming language itself (e.g., Python crash course, Julia cheat sheet, etc) are not considered an academic resources.
 - Software and hardware (e.g., a specific board development board) are not considered an academic resources.
 
