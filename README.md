@@ -93,6 +93,7 @@
 
 ### GNSS
 - [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf) **GLONASS & GPS HW design.**
+- [`reading`](https://rokubun.github.io/gnss_tutorials/README.html) [`code`](https://github.com/rokubun/gnss_tutorials) - **GNSS data processing with Python** - Hands-on tutorials for GNSS data processing using Python and Jupyter Notebooks/book.
 - [`code`](https://geodesy.noaa.gov/gps-toolbox/) **GPS Toolbox** - GPS Toolbox topical collection of the journal GPS Solutions. It provides a means for distributing the source code and algorithms discussed in the GPS Toolbox topical collection.
 
 ## Optimization Theory
