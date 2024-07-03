@@ -98,7 +98,7 @@
 
 ## Optimization Theory
 
-- [`course`](https://see.stanford.edu/Course/EE364A) [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`reading`](https://web.stanford.edu/class/ee364a/) [`reading`](https://github.com/cvxgrp/cvxbook_additional_exercises) **EE364A, Convex Optimization I** - Stanford Engineering Everywhere - Stephen Boyd. 
+- [`course`](https://see.stanford.edu/Course/EE364A) [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`reading`](https://web.stanford.edu/class/ee364a/) [`reading`](https://github.com/cvxgrp/cvxbook_additional_exercises) [`code`](https://github.com/cvxgrp/cvxbook_additional_exercises/) **EE364A, Convex Optimization I** - Stanford Engineering Everywhere - Stephen Boyd. 
 - [`course`](https://web.stanford.edu/class/ee364b/) **EE364b - Convex Optimization II** - Stanford Engineering Everywhere - Stephen Boyd. 
 - [`course`](https://www.edx.org/learn/engineering/stanford-university-convex-optimization) [`code`](https://github.com/NoamGit/CVX101-HW-with-python) [`code`](https://github.com/PKUFlyingPig/Standford_CVX101) **CVX101 Stanford** - StanfordOnline: Convex Optimization. 
 - [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`solution`](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) [`reading`](https://web.mit.edu/~jadbabai/www/EE605/additional_exercises.pdf) **Convex Optimization** - Boyd, S.P. and Vandenberghe, L., 2004. Cambridge university press. 
