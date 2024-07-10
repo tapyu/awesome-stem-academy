@@ -130,3 +130,7 @@
 - [`code`](http://www.mathworks.com/matlabcentral/fileexchange/3582-adaptive-filtering) **Matlab codes for Statistical Signal Processing algorithms** - Matlab code implementing different methods used in statistical signal processing; mainly Extended Kalman Filters, LMS/RLS, Wiener, robust regression, MMSE estimators, ML estimators, Hi-Frequency estimators (Pisarenko, MUSIC, ESPRIT).
 - [`code`](https://github.com/YangangCao/AdaptiveFilter) **Code solution of three classical adaptive filter books** - Adaptive Filter Theory (5th Edition) wrotten by Simon Haykin, Adatpive Filtering: Algorithms and Practical Implentation (4th Edition) wrotten by Paulo S R. Diniz, and Adaptive Filters: Theory and Application (2nd Edition) wrotten by Behrouz Farhang-Boroujeny.
 - [`code`](https://github.com/rohitner/adaptive-filters) **Collection of implementations of adaptive filters** - Recursive Least Squares, Partial Least Squares, Moving Window Least Squares, Recursive Locally Weighted Partial Least Squares, Online Passive Aggressive Algorithm, Kalman Filter.
+
+### System identification
+
+- [`course`](https://www.mathworks.com/videos/series/system-identification.html) [`video`](https://www.mathworks.com/videos/introduction-to-system-identification-81796.html) - MathWorks course on System Identification, taught by Lennart Ljung, Linköping University.
