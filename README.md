@@ -135,4 +135,5 @@
 
 ### System identification
 
+- [`course`](http://mocha-java.uccs.edu/ECE5560/index.html) **ECE5560: System Identification** - A course on System Identification from the University of Colorado, taught by Prof. Dr. Gregory L. Plett.
 - [`course`](https://www.mathworks.com/videos/series/system-identification.html) [`video`](https://www.mathworks.com/videos/introduction-to-system-identification-81796.html) **MathWorks course on System Identification** - Taught by Lennart Ljung, Linköping University.
