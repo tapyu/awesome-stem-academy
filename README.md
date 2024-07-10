@@ -86,6 +86,7 @@
 
 ## Communication Systems
 
+- [`course`](https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html) [`reading`](https://www.mathworks.com/discovery/sdr.html) [`code`](https://github.com/tapyu/stewart-rtl-sdr-using-matlab) **Software-Defined Radio Using MATLAB, Simulink, and the RTL-SDR** - A hands-on course on SDR using the Realtek RTL2832U chip. It is based on the book "Software Defined Radio Using MATLAB & Simulink and the RTL-SDR", by Bob Stewart.
 - [`reading`](https://www.ieee.li/pdf/essay/quadrature_signals.pdf) **Book Quadrature Signals: Complex, But Not Complicated.**
 - [`reading`](https://www.researchgate.net/publication/3321471_How_I_learned_to_love_the_trellis) **How I learned to love the trellis.**
 - [`reading`](http://whiteboard.ping.se/SDR/IQ) **I/Q Data for Dummies.**
