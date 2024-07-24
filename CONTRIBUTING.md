@@ -32,7 +32,7 @@ where:
         1. `book`: Suggestions for open-access books shall use this tag. If you use this tag without the `course` tag, the short title must be the book name, while longer explanation must contain other information, such as author, year, edition, issue, etc. You must only add open access links to books.
         1. `solution`: Suggestions for book's solution manuals shall use this tag. If the solution is code, you must use `code` instead.
         1. `reading`: Suggestions for articles, class notes, websites, or any other reading material shall use this tag.
-        1. `video`: Suggestion for isolated videos (which don't belong to a course or a playlist) shall use this tag.
+        1. `video`: Suggestion for isolated videos (which don't belong to a course or a playlist) shall use this tag. Very small playlists consisting of few short-duration videos should use this tag if you find more sensible than tagging it as `course`.
         1. `code`: Codes that implement specific algorithms or are the book's code solution shall use this tag.
     - `Short title`: Mandatory. It must not have hyperlinks.
     - ` - A longer explanation`: Optional. It must not have hyperlinks. When used, you must separate it from the short title by using a dash character, that is, ` - `.
