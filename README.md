@@ -102,7 +102,12 @@
 - [`video`](https://www.youtube.com/watch?v=3NWn5cQM7q4&t=80s&ab_channel=TechMinds) - **GPS Spoofing With The HackRF On Windows**
 - [`code`](https://geodesy.noaa.gov/gps-toolbox/) **GPS Toolbox** - GPS Toolbox topical collection of the journal GPS Solutions. It provides a means for distributing the source code and algorithms discussed in the GPS Toolbox topical collection.
 
-## Optimization Theory
+## Numerical Methods
+
+- [`course`](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) **Engineering Math: Differential Equations and Dynamical Systems** - By Steve Brunton. Introduction and overview to Differential Equations & Dynamical Systems.  Dynamical systems are differential equations that describe any system that changes in time
+- [`book`](https://gdcboysang.ac.in/About/Droid/uploads/Numerical%20Methods.pdf) [`code`](https://github.com/danimateos/numerical_methods) [`code`](https://github.com/asukumari/Numerical-Methods) **Numerical Methods for Engineers** - By Steven C. Chapra and Raymond P. Canale. 7th edition.
+
+### Optimization Theory
 
 - [`course`](https://see.stanford.edu/Course/EE364A) [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`reading`](https://web.stanford.edu/class/ee364a/) [`reading`](https://github.com/cvxgrp/cvxbook_additional_exercises) [`code`](https://github.com/cvxgrp/cvxbook_additional_exercises/) **EE364A, Convex Optimization I** - Stanford Engineering Everywhere - Stephen Boyd. 
 - [`course`](https://web.stanford.edu/class/ee364b/) **EE364b - Convex Optimization II** - Stanford Engineering Everywhere - Stephen Boyd. 
@@ -112,10 +117,6 @@
 - [`reading`](https://neos-guide.org/guide/types/) **Optimization Problem Types.**
 - [`reading`](https://dcp.stanford.edu/analyzer) **DCP analyzer.**
 
-## Numerical Methods
-
-- [`course`](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) **Engineering Math: Differential Equations and Dynamical Systems** - By Steve Brunton. Introduction and overview to Differential Equations & Dynamical Systems.  Dynamical systems are differential equations that describe any system that changes in time
-- [`book`](https://gdcboysang.ac.in/About/Droid/uploads/Numerical%20Methods.pdf) [`code`](https://github.com/danimateos/numerical_methods) [`code`](https://github.com/asukumari/Numerical-Methods) **Numerical Methods for Engineers** - By Steven C. Chapra and Raymond P. Canale. 7th edition.
 
 ## Signal Processing
 
