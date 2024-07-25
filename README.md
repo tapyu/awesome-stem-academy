@@ -114,6 +114,7 @@
 
 ## Numerical Methods
 
+- [`course`](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) **Engineering Math: Differential Equations and Dynamical Systems** - By Steve Brunton. Introduction and overview to Differential Equations & Dynamical Systems.  Dynamical systems are differential equations that describe any system that changes in time
 - [`book`](https://gdcboysang.ac.in/About/Droid/uploads/Numerical%20Methods.pdf) [`code`](https://github.com/danimateos/numerical_methods) [`code`](https://github.com/asukumari/Numerical-Methods) **Numerical Methods for Engineers** - By Steven C. Chapra and Raymond P. Canale. 7th edition.
 
 ## Signal Processing
