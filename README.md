@@ -1,8 +1,20 @@
 <p align="center">
-  <a href="httpg://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true"> <img src="https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://awesome.re/badge.svg">
+  </a>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true">
+  </a>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/tapyu/awesome-stem-academy">
     <img src="./assets/AwesomeSTEMAcademy.jpg" width="520">
+  </a>
+</p>
   
 
 <table align="center">
