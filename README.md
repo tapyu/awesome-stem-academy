@@ -113,7 +113,6 @@
 - **GNSS data processing with Python** [`reading`](https://rokubun.github.io/gnss_tutorials/README.html) [`code`](https://github.com/rokubun/gnss_tutorials) - - Hands-on tutorials for GNSS data processing using Python and Jupyter Notebooks/book.
 - **GPS Spoofing With The HackRF On Windows** [`video`](https://www.youtube.com/watch?v=3NWn5cQM7q4&t=80s&ab_channel=TechMinds) -
 - **GPS Toolbox** [`code`](https://geodesy.noaa.gov/gps-toolbox/) - GPS Toolbox topical collection of the journal GPS Solutions. It provides a means for distributing the source code and algorithms discussed in the GPS Toolbox topical collection.
-- **Hack-a-sat** [`reading`](https://github.com/deptofdefense/hack-a-sat-library?tab=readme-ov-file#hack-a-sat-resource-library) - A collection of Resources for budding SAT hackers.
 
 ## Numerical Methods
 
