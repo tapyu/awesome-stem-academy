@@ -4,11 +4,11 @@
 
 ### What to add
 
-**You must only suggest STEM academic resources:**
-
-- Books, courses, and codes that implements algorithm which require some theoterical background are more than welcome. Kalman filter, multilayer perceptron, sorting algorithms are some examples.
-- Suggestions of programming language itself (e.g., Python crash course, Julia cheat sheet, etc) are not considered an academic resources.
-- Software and hardware (e.g., a specific board development board) are not considered an academic resources.
+> What **is** a STEM academic resource?
+- Books, courses, and codes that implements algorithm which require some theoterical background from a field of Science (e.g., Physics), Technology, Engineering, and Mathematics.
+> What **is not** a STEM academic resource?
+- Suggestions of programming language itself (e.g., Python crash course, Julia cheat sheet, etc).
+- Software and hardware (e.g., a specific board development board).
 
 ### How to add
 
