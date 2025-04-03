@@ -96,7 +96,7 @@
 - **The Art of Linear Algebra** [`reading`](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Linear Algebra course by Professor Gilbert Strang.
 - **What is Jacobian?** [`video`](https://www.youtube.com/watch?v=wCZ1VEmVjVo&t=433s&ab_channel=Mathemaniac) - Multivariable calculus: The right way of thinking derivatives and integrals.
 
-## Communication Systems
+## Communication & Navigation Systems
 
 - **ECE4305 Software Defined Radio Systems and Analysis** [`course`](https://www.youtube.com/playlist?list=PLBfTSoOqoRnOTBTLahXBlxaDUNWdZ3FdS) [`book`](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) [`reading`](https://wpi.cleancatalog.net/electrical-and-computer-engineering/ece-4305) [`reading`](https://sdrforengineers.github.io/) [`reading`](https://ieeexplore.ieee.org/document/6815911) [`reading`](https://github.com/tapyu/ece4305-sdr-systems-and-analysis) [`reading`](https://www.analog.com/media/en/news-marketing-collateral/product-highlight/ADALM-PLUTO-Product-Highlight.pdf) [`reading`](https://wiki.analog.com/university/tools/pluto) [`reading`](https://courses.washington.edu/ee506/projects/asee2011.pdf) [`reading`](https://newsdr.org/workshops/sdr-classroom-panel/) [`reading`](https://github.com/sdrforengineers/LectureMaterials) [`reading`](https://www.mathworks.com/hardware-support/adalm-pluto-radio.html) [`reading`](https://github.com/sdrforengineers/LabGuides) [`reading`](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview) [`video`](https://www.analog.com/en/resources/media-center/videos/5765544380001.html) [`video`](https://www.analog.com/en/resources/media-center/videos/5764861961001.html) [`video`](https://www.youtube.com/watch?v=9CMX3b-4RUw&ab_channel=WPIECE) [`video`](https://www.analog.com/en/resources/media-center/videos/5839800192001.html) [`code`](https://github.com/sdrforengineers/code) - - Hands-on course on SDR communication system from the Department of Electrical and Computer Engineering (ECE), at Worcester Polytechnic Institute (WPI), taught by Prof. Dr. Alexander Wyglinski. The course is based on the book "Software-Defined Radio for Engineers", developed by Analog Devices Inc. (ADI) and written by Travis F. Collins et. al., and uses ADALM-PLUTO SDR, also manufactured by ADI.
 - **Software-Defined Radio Using MATLAB, Simulink, and the RTL-SDR** [`course`](https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html) [`reading`](https://www.mathworks.com/discovery/sdr.html) [`reading`](https://www.mathworks.com/hardware-support/rtl-sdr.html) [`reading`](https://www.rtl-sdr.com/about-rtl-sdr/) [`code`](https://github.com/tapyu/stewart-rtl-sdr-using-matlab) - A hands-on course on SDR using the Realtek RTL2832U chip. It is based on the book "Software Defined Radio Using MATLAB & Simulink and the RTL-SDR", by Bob Stewart. It uses the RTL-SDR device, emerged from the repurposing of digital TV (DVB-T) USB dongles that use the RTL2832U chipset, which was originally developed by Realtek Semiconductor Corp.
@@ -108,11 +108,12 @@
 - **Let's Assume the System is Synchronized** [`reading`](https://s3.amazonaws.com/embeddedrelated/user/6420/lets_assume_system_synchronized_2_94379.pdf) - By Fred Harris.
 - **Software Radio for Experimenters with GNU Radio** [`code`](https://people.scs.carleton.ca/~barbeau/SDRCRBook/index.shtml) - Implemented in Octave and Python by Michel Barbeau.
 
-### GNSS
+### Satellite-based systems
 - **GLONASS & GPS HW design.** [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf)
 - **GNSS data processing with Python** [`reading`](https://rokubun.github.io/gnss_tutorials/README.html) [`code`](https://github.com/rokubun/gnss_tutorials) - - Hands-on tutorials for GNSS data processing using Python and Jupyter Notebooks/book.
 - **GPS Spoofing With The HackRF On Windows** [`video`](https://www.youtube.com/watch?v=3NWn5cQM7q4&t=80s&ab_channel=TechMinds) -
 - **GPS Toolbox** [`code`](https://geodesy.noaa.gov/gps-toolbox/) - GPS Toolbox topical collection of the journal GPS Solutions. It provides a means for distributing the source code and algorithms discussed in the GPS Toolbox topical collection.
+- **Hack-a-sat** [`reading`](https://github.com/deptofdefense/hack-a-sat-library?tab=readme-ov-file#hack-a-sat-resource-library) - A collection of Resources for budding SAT hackers.
 
 ## Numerical Methods
 
