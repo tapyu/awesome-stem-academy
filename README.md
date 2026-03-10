@@ -116,7 +116,7 @@
 
 ## Numerical Methods
 
-- **Engineering Math: Differential Equations and Dynamical Systems** [`course`](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) - By Steve Brunton. Introduction and overview to Differential Equations & Dynamical Systems.  Dynamical systems are differential equations that describe any system that changes in time
+- **Engineering Math: Differential Equations and Dynamical Systems** [`course`](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) - By Steve Brunton. Introduction and overview to Differential Equations & Dynamical Systems.  Dynamical systems are differential equations that describe any system that changes in time.
 - **Numerical Methods for Engineers** [`book`](https://gdcboysang.ac.in/About/Droid/uploads/Numerical%20Methods.pdf) [`code`](https://github.com/danimateos/numerical_methods) [`code`](https://github.com/asukumari/Numerical-Methods) - By Steven C. Chapra and Raymond P. Canale. 7th edition.
 
 ### Optimization Theory
@@ -127,7 +127,7 @@
 - **Convex Optimization** [`book`](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [`solution`](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) [`reading`](https://web.mit.edu/~jadbabai/www/EE605/additional_exercises.pdf) - Boyd, S.P. and Vandenberghe, L., 2004. Cambridge university press.
 - **Convex Optimization** [`video`](https://www.youtube.com/playlist?list=PLqwozWPBo-FuPu4d9pFOobsCF1vDGdY_I) - An intuitive explanation of convex optimization and how it works, from the YouTube channel Visually Explained.
 - **Optimization Problem Types.** [`reading`](https://neos-guide.org/guide/types/)
-- **DCP analyzer.** [`reading`](https://dcp.stanford.edu/analyzer)
+- **DCP analyzer.** - [`reading`](https://dcp.stanford.edu/analyzer)
 
 
 ## Signal Processing
