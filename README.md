@@ -85,13 +85,13 @@
 - **How convolutional neural networks work, in depth.** [`video`](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
 - **MIT 6.S191 (2022): Convolutional Neural Networks.** [`video`](https://www.youtube.com/watch?v=uapdILWYTzE)
 - **Bias Variance trade-off.** [`video`](https://www.youtube.com/watch?v=vhz2pgfOpaw)
-- **generative-models** [`code`](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
+- **generative-models** [`code`](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in PyTorch and TensorFlow.
 - **LLMs-from-scratch** [`code`](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step.
 
 ## Linear Algebra
 
 - **MIT 18.06, Linear Algebra** [`course`](https://github.com/mitmath/1806) [`code`](https://github.com/shahrokh-bahtooei/Linear-Algebra-Gilbert-Strang) - By Professor Gilbert Strang.
-- **Abstract Algebra** [`course`](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6&ab_channel=Socratica) - - A YouTube course from Socratica.
+- **Abstract Algebra** [`course`](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6&ab_channel=Socratica) - A YouTube course from Socratica.
 - **Introduction to Linear Algebra** [`book`](https://drive.google.com/file/d/1zdIDyV8qDBWNmmlwhBw7EtLu_pyacdOh/view) [`solution`](https://github.com/8128/SharedResources/blob/master/Introduction%20to%20Linear%20Algebra%205th%202016/Introduction%20to%20Linear%20Algebra%2C%205th%20%20(Solutions)%20%E2%80%93%202016.pdf) [`reading`](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html) [`code`](https://www.mathworks.com/matlabcentral/fileexchange/2166-introduction-to-linear-algebra) - Gilbert Strang. 5th edition.
 - **The Art of Linear Algebra** [`reading`](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Linear Algebra course by Professor Gilbert Strang.
 - **What is Jacobian?** [`video`](https://www.youtube.com/watch?v=wCZ1VEmVjVo&t=433s&ab_channel=Mathemaniac) - Multivariable calculus: The right way of thinking derivatives and integrals.
@@ -110,8 +110,8 @@
 
 ### Satellite-based systems
 - **GLONASS & GPS HW design.** [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf)
-- **GNSS data processing with Python** [`reading`](https://rokubun.github.io/gnss_tutorials/README.html) [`code`](https://github.com/rokubun/gnss_tutorials) - - Hands-on tutorials for GNSS data processing using Python and Jupyter Notebooks/book.
-- **GPS Spoofing With The HackRF On Windows** [`video`](https://www.youtube.com/watch?v=3NWn5cQM7q4&t=80s&ab_channel=TechMinds) -
+- **GNSS data processing with Python** [`reading`](https://rokubun.github.io/gnss_tutorials/README.html) [`code`](https://github.com/rokubun/gnss_tutorials) - Hands-on tutorials for GNSS data processing using Python and Jupyter Notebooks/book.
+- **GPS Spoofing With The HackRF On Windows** [`video`](https://www.youtube.com/watch?v=3NWn5cQM7q4&t=80s&ab_channel=TechMinds) - GPS spoofing demonstration using HackRF.
 - **GPS Toolbox** [`code`](https://geodesy.noaa.gov/gps-toolbox/) - GPS Toolbox topical collection of the journal GPS Solutions. It provides a means for distributing the source code and algorithms discussed in the GPS Toolbox topical collection.
 
 ## Numerical Methods
