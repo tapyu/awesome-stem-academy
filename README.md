@@ -109,6 +109,7 @@
 - **Software Radio for Experimenters with GNU Radio** [`code`](https://people.scs.carleton.ca/~barbeau/SDRCRBook/index.shtml) - Implemented in Octave and Python by Michel Barbeau.
 
 ### Satellite-based systems
+- **OpenGNSSLab** [`course`](https://opengnsslab.org/) - Step-by-step numerical learning for GNSS positioning algorithms.
 - **GLONASS & GPS HW design.** [`reading`](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf)
 - **GNSS data processing with Python** [`reading`](https://rokubun.github.io/gnss_tutorials/README.html) [`code`](https://github.com/rokubun/gnss_tutorials) - Hands-on tutorials for GNSS data processing using Python and Jupyter Notebooks/book.
 - **GPS Spoofing With The HackRF On Windows** [`video`](https://www.youtube.com/watch?v=3NWn5cQM7q4&t=80s&ab_channel=TechMinds) - GPS spoofing demonstration using HackRF.
