@@ -115,7 +115,7 @@
 - **GNSS data processing with Python** [`reading`](https://rokubun.github.io/gnss_tutorials/README.html) [`code`](https://github.com/rokubun/gnss_tutorials) - Hands-on tutorials for GNSS data processing using Python and Jupyter Notebooks/book.
 - **GPS Spoofing With The HackRF On Windows** [`video`](https://www.youtube.com/watch?v=3NWn5cQM7q4&t=80s&ab_channel=TechMinds) - GPS spoofing demonstration using HackRF.
 - **GPS Toolbox** [`code`](https://geodesy.noaa.gov/gps-toolbox/) - GPS Toolbox topical collection of the journal GPS Solutions. It provides a means for distributing the source code and algorithms discussed in the GPS Toolbox topical collection.
-- [reading](https://www.kalmixtech.com/blogs/blog/tagged/gnss-handbook) **Kalmix GNSS Handbook** - Free engineering articles on satellite ranging, receiver clock bias, GNSS error sources, carrier-phase RTK, correction protocols, and coordinate frames.
+- **Kalmix GNSS Handbook** [`reading`](https://www.kalmixtech.com/blogs/blog/tagged/gnss-handbook) - Free engineering articles on satellite ranging, receiver clock bias, GNSS error sources, carrier-phase RTK, correction protocols, and coordinate frames.
 
 ## Numerical Methods
 
